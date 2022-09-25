@@ -2,6 +2,8 @@
 Autumn 2022: Machine Learning for the Geoscience
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/ESS490-590-Autmn22/HEAD)
+
+
 nstructor: Marine Denolle (mdenolle at uw.edu)
 Supported by: the GeoSMART team (Stefan Todoran, Nicoleta Cristea, Anthony Arendt, Scott Henderson, Ziheng Sun)
 
