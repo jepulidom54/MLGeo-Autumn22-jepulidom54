@@ -20,6 +20,8 @@ By the end of the quarter, the students should be able to:
 - Describe the canonical examples in a breadth of disciplines in geoscience.
 - Understand at least qualitatively how some of the advanced techniques (Fourier and wavelet transform, principal component analysis, …) manipulate and transform the data to interpret the output.
 
+# Textbook
+This course is being developed in conjonction with the [GeoSMART curriculum book](https://geo-smart.github.io/curriculumbook/about_this_book/about_this_book.html)
 
 **Prerequisites**: MATH 207 and MATH 208, or MATH 307 or 308, or AMATH 351 or 352, CS160 or CS163, or permission from the instructor.
 
