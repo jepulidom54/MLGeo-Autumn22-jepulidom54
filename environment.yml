@@ -1,33 +1,23 @@
-name: uwdsgeo
+name: mlgeo_sk
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.9
   - jupyter
-  - pycrs
-  - netCDF4
   - earthpy
   - folium
   - geopandas
   - matplotlib
-  - mongodb
+  - pymongo
   - netCDF4
   - numpy
   - pandas
   - pycrs
-  - pytorch
   - rasterio
   - scipy
   - scikit-learn
   - shapely
-  - torchvision
   - xarray
-  - ipywidgets
-  - jupyterhub-singleuser
-  - jupyter-server-proxy
-  - jupyterlab=3
-  - jupyter-resource-usage
   - nbgitpuller
   - pip=20
-
+  - obspy
