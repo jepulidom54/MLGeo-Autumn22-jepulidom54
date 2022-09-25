@@ -1,53 +1,35 @@
-# ESS490-590-Spr21
-Spring 2021 Data Science for Earth and Planetary Systems
+# ESS490-590-Aumnt22
+Autumn 2022: Machine Learning for the Geoscience
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/ESS490-590-Spr21/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/ESS490-590-Autmn22/HEAD)
+nstructor: Marine Denolle (mdenolle at uw.edu)
+Supported by: the GeoSMART team (Stefan Todoran, Nicoleta Cristea, Anthony Arendt, Scott Henderson, Ziheng Sun)
 
 # Overview
-Introduction to Data Science for Earth and Planetary Systems (surface processes, natural hazards, geochemistry, physics of the Earth interior). Teaches basics in computing skills in python; data manipulations, visualization, curation; data statistics, clustering; regression analysis, neural networks; applied explicitly to data encountered in Earth and Planetary Systems.
+The course is intended to introduce Machine Learning in Geosciences, the basics of computing, and methodologies in applied machine learning. The course focuses on canonical and topical data sets in seismology, oceanography, cryosphere, planetary sciences, geology, and geodesy. The methods taught include unsupervised clustering, logistic regression, random forest, support vector machine, and deep learning.
 
-### Learning objectives 
+# Learning objectives 
 
-Quantitative data analysis is becoming a necessary skill for most geoscientists. The course is designed to provide hands-on experience with fundamental data science techniques applied to geoscientific data. The learning outcomes will be basics in:
-- Computing: python, notebooks, version control, cloud, and local platforms.
-- Data manipulation in Geosciences:  data formats, plotting, dimensionality reduction, and feature engineering.
-- Statistical methods applied to geoscience data.
-- Open science, reproducibility, and digital scholarship
-Students will learn by practicing.
+By the end of the quarter, the students should be able to:
+- Demonstrate computing skills in python, jupyter notebooks, Git version control, and deploy scripts on local computers, cloud-hosted hubs, or cloud instances.
+- Develop and apply standard machine-learning workflows: 1) Data preparation, 2) Model design, 3) Model training, validation, and evaluation.
+- Apply standard data manipulation strategies in the Geosciences: data types (time series and geospatial), data formats, data visualization, dimensionality reduction, and feature engineering.
+- Describe and demonstrate the adoption of open science principles, science reproducibility, and digital scholarship.
+- Describe the canonical examples in a breadth of disciplines in geoscience.
+- Understand at least qualitatively how some of the advanced techniques (Fourier and wavelet transform, principal component analysis, …) manipulate and transform the data to interpret the output.
 
-**Prerequisites**: MATH 207 and MATH 208, or MATH 307 and 308, or AMATH 351 and 352, or permission from the instructor.
 
-**Recommended**: knowledge in Matlab or python, AMATH301, a college-level Earth Sciences course
+**Prerequisites**: MATH 207 and MATH 208, or MATH 307 or 308, or AMATH 351 or 352, CS160 or CS163, or permission from the instructor.
 
-### Assessment
-Grading policy:
-- Reading and webinar assignments: 20% 
-- Homeworks: 50% 
-- Final project: 30%
- 
-**Late work policy**:
-You are allowed once up to 2 late days for homework. Use it wisely and in case of emergency! Email the teaching staff if you anticipate needing an extra day at least 48 hours before the deadline. Otherwise, you will receive a grade of zero.
+**Recommended**: Knowledge in Matlab or python, AMATH301, 100- or 200-level courses in the Earth Sciences. Refreshers in computing skills will be provided.
 
-**Final project**:
-590: lead a project. 490: assist a 590 project
-
-The final project will be a research-style project that will leverage the materials covered and apply them to new data in geosciences. The students will be evaluated on the following items:
-Formulation of an outstanding research question: an argument for the scientific inquiry based on literature review (PR due )
-1. Design and deploy a scientific workflow: describe in prose or the diagram (e.g., using ASSET) the project.
-2. Design and deploy a data and computing workflow: describe using ASSET
-3. Gather or curate a data set
-4. Develop and deploy an algorithm
-5. Assess the performance of the algorithm
-6. Reproducibility of the results
-The 5-page report, documentation on the data and codes, 15-min presentation. 590 project leaders perform all listed tasks. 490 project assistants help project leaders, in particular in tasks 4, 5, 6, 7. The relation between project leaders and assistants is that expected during undergraduate research internships.  The team will provide a brief progress report PR (½ page PDF to submit on canvas) at the dates listed above, which will help make progress during the quarter.
- 
 # Syllabus
 
-- Module 1 (weeks 1 and 2): Intro to DS in Earth Systems (basic practice in open science and computing skills)
-- Module 2: (weeks 3 and 4) Data in the Geosciences (basic data handling)
-- Module 3: (weeks 5 and 6) Unsupervised Learning in Geo
-- Module 5: (weeks 7 and 8) Supervised Learning in Geo
-- Module 6: (weeks 9 and 10) Deep Learning in Geo
+- Module 1 (weeks 1 and 2): Intro on ML in the Geo and basic tool building for Open Sciences 
+- Module 2: (weeks 3 and 4) Creating Machine-Learning Ready Data Sets
+- Module 3: (weeks 5 and 6) Feature extraction and clustering
+- Module 5: (weeks 7 and 8) Machine Learning
+- Module 6: (weeks 9 and 10) Deep Learning
 
 # Readings and Webinars
-The GoogleDoc https://docs.google.com/document/d/15cVLDCpHP74xQqtFq0CrFtrFln1TjdtWq3vg401KJrY/edit#heading=h.zfcrpxuen89 lists references, links, PDFs to the literature assigned and discussed in class. Access limited to participants in the class.
+Each week, students will write a short report about either a paper or a webinar. Use the template on canvas and answer the questions when appropriate. Submissions of the report PDF are due Wednesdays at 11:59 pm PDT on canvas. The instructor will spend 15 minutes Monday morning summarizing the reading and webinar reports. Papers can be found and/or uploaded on a shared private course Google Drive [here](https://drive.google.com/drive/folders/1dyxfslCLzFFTYtX_vbjudlzaXvOxkepe?usp=sharing) (only accessible with a UW email address).
