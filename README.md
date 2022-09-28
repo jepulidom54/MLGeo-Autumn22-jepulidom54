@@ -1,4 +1,4 @@
-# ESS490-590-Aumnt22
+# MLGeo-Autumn22
 Autumn 2022: Machine Learning for the Geoscience
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-ESS-DS/ESS490-590-Autmn22/HEAD)
