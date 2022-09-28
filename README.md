@@ -29,11 +29,10 @@ This course is being developed in conjonction with the [GeoSMART curriculum book
 
 # Syllabus
 
-- Module 1 (weeks 1 and 2): Intro on ML in the Geo and basic tool building for Open Sciences 
-- Module 2: (weeks 3 and 4) Creating Machine-Learning Ready Data Sets
-- Module 3: (weeks 5 and 6) Feature extraction and clustering
-- Module 5: (weeks 7 and 8) Machine Learning
-- Module 6: (weeks 9 and 10) Deep Learning
+- Module 1 (weeks 1 and 2)   	Open-GeoScience Ecosystem
+- Module 2 (weeks 3 and 4)  	ML Ready Data Set
+- Module 3 (weeks 5-6-7) 		Machine Learning
+- Module 4 (weeks 8-9-10) 	Deep Learning
 
 # Readings and Webinars
 Each week, students will write a short report about either a paper or a webinar. Use the template on canvas and answer the questions when appropriate. Submissions of the report PDF are due Wednesdays at 11:59 pm PDT on canvas. The instructor will spend 15 minutes Monday morning summarizing the reading and webinar reports. Papers can be found and/or uploaded on a shared private course Google Drive [here](https://drive.google.com/drive/folders/1dyxfslCLzFFTYtX_vbjudlzaXvOxkepe?usp=sharing) (only accessible with a UW email address).
