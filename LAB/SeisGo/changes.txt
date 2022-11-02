@@ -1,0 +1,274 @@
+Updates in v0.7.5
+MONITORING:
+1. get_dvv: improved plot saving. Fixed a bug where stack_method was not specified for substacking.
+
+DISPERSION:
+1. get_dispersion_image: use adaptive window size for different periods, increasing with periods.
+  This is options. Options to specify minimum number of trace and minimum number of wavelength.
+  * added option to specify energy type, "power_sum" or "envelope".
+2. renamed get_dispersion_waveforms() to narrowband_waveforms to avoid using the word "dispersion".
+
+DOWNLOADERS:
+1. read_data(): minor bug fixes.
+2. get_data() and get_sta_list(): added flexibility of specifying the source, which could be a Client object.
+3. download(): added verbose to calling getdata().
+
+STACKING:
+1. Added handling of small data size, i.e., 1 trace, which will return the data without stacking.
+2. Added option of using DOST for tfpws, based on the implementation by Jared Bryan. It was added as a new function:tfpws_dost.
+
+===================================================================
+Updates in v0.7.4
+UTILS:
+1. Added spectral whitening function: whiten(), for time series data.
+
+MONITORING:
+1. Added whitening option in get_dvv().
+
+TYPES:
+1. FFTData, fixed a minor bug when getting Nfft for single trace data.
+2. CorrData shaping: trim_end option to accommodate the need by FWANT.
+
+PLOTTING:
+1. plot_psd() bug fixed
+
+STACKING:
+1. Fixed a bug in robust stacking when the trace amplitudes are anomalously small.
+
+DOWNLOADERS:
+1. ms2asdf(): added option to specify response file.
+
+DISPERSION:
+1. get_dispersion_waveforms: Use period to get the evenly-spaced period vector.
+2. get_dispersion_image: new function to extract dispersion image in velocity-period domain/space.
+
+==================================================================
+Updates in v0.7.3
+NOISE:
+1. Added mpi option and fixed error in handling wrong file, in extract_corrdata()
+2. Fixed error handling in get_stationpairs().
+3. Added split_sides() to split corrfile sides and save separately.
+4. Added shaping_corrdata() to wrap shaping function, convolving with wavelet.
+5. Added split option in merge_pairs().
+
+TYPES:
+1. Added CorrData.shaping() to shape the data with wavelet.
+2. Added CorrData.save() to wrap saving functions.
+3. In CorrData.to_asdf(), save stack_method.
+4. Fixed a bug in CorrData.to_egf() where the zero lag was not handled correctly. The negative side was wrong.
+
+UTILS:
+1. Added gaussian() and ricker() as the shaping wavelets.
+2. Added box_smooth().
+
+DOWNLOADERS:
+1. In read_data(), changed default to False for getstainv.
+
+HELPERS:
+1. Added wavelet_labels().
+
+MONITORING:
+1. Added vpcluster_evaluate_kmean() to find the optimal number of clusters.
+
+DISPERSION:
+1. Improved frequency steps in disp_waveform_bp().
+
+STACKING:
+1. Synced with stackmaster functions.
+
+CLUSTERING:
+1. Automatically determine the optimal number of clusters.
+
+==================================================================
+Updates in v0.7.2
+All modules: Cleaned up unused functions.
+
+TYPES:
+1. CorrData.subset() changed overwrite to False by default.
+2. DvvData, added get_info() to streamline and wrapup key information for other use.
+3. DvvData: added save() as a wrapper for saving functions, including to_asdf() and to_pickle.
+4. DvvData: added to_pickle() to save data to pickle files. This is mainly aiming to
+    workaround with the problem of saving large attributes in h5 file, through asdf.
+5. DvvData: added subfreq as a Boolean attribute.
+6. DvvData.plot(): added option to plot when subfreq=False. only plots error bars.
+
+MONITORING:
+1. extract_dvvdata: added option to read in pickle files.
+2. get_dvv(): added option to save to pickle.
+3. get_dvv(): added "ts" method.
+4. Modified ts_dvv() to provide filter option and streamlined to work as a standalone method for SeisGo.
+5. Delted unused functions.
+
+OBSMASTER:
+1. Moved some funcitons from utils.py to here.
+
+NOISE:
+1. Added reorganize_corrfile() to reorganize corrfile.
+2. Added option in do_correlation() to specify the flag of output_structure.
+3. Added comments and descriptions to major functions.
+
+HELPERS:
+1. Added this new module to provide a place showing a summary of helper function using SeisGo.
+
+==================================================================
+Changes in v0.7.0
+STACKING:
+1. Added clusterstack() and tfpws().
+
+MONITORING:
+1. Added option to specify file name when saving to *.h5 file.
+
+==================================================================
+Updates in v0.6.6
+MONITORING:
+1. Fixed a bug in single cpu mode, where the positive side was used for the negative measurements.
+
+STACKING:
+1. Cleaned up stacking methods with simpler names with a consistent fashion
+2. Added seisstack() as a wrapper/interface to call all methods.
+
+TYPES:
+1. CorrData.to_egf(): Added a statement to check whether the data is already EGFs.
+2. CorrData.stack(): demean is now an option. ampcut can be turned off now. This is to
+    consider situations when all data need to be stacked and/or the overall trend needs to be preserved.
+3. Simplified calling stacking through seisstack. this enables easier future development.
+
+NOISE:
+1. Simplified calling stacking through seisstack. this enables easier future development.
+
+UTILS:
+1. Added get_snr() to get snr of data with distance information.
+2. Added rms() to get the rms of data.
+3. Fixed a bug in psd() to return half of the PSD and the corresponding frequency vector.
+
+==================================================================
+Updates in v0.6.5
+SETUP:
+1. Added requirements for tslearn and minisom mainly for the clustering module .
+
+CLUSTERING:
+1. Added the new module.
+2. Added clustering of velocity depth profiles with kmean and som, in two functions.
+
+PLOTTING:
+1. Added get_color_cycle() to help assign colors in plotting using matplotlib.
+2. Cleaned up unused old NOISEPY functions.
+3. Function to plot vmodel clustering results.
+
+NOISE:
+1. Optimized merge_chunks() to use less time getting the time range.
+
+UTILS:
+1. Added option to use pattern in get_filelist().
+
+==================================================================
+Updates in v0.6.4
+TYPES:
+1. Check lower case only for method in CorrData.stack()
+2. Bugs and improvements in DvvData and CorrData to save large attribute to asdf
+3. Added psd() method in CorrData to plot psd of the CorrData result.
+4. Added plot() method in FFTData to plot the amplitude spectrum of the FFT results.
+5. Improved plot() for DvvData with smoothing option.
+6. Minor bug fixes and improvement for FFTData in merging and plotting.
+
+DOWNLOADERS:
+1. Use inventory to remove response in read_data for miniseed
+2. Added ms2asdf() to convert miniseed files to asdf files.
+
+NOISE:
+1. Optimize memory usage for merge_chunks()
+
+PLOTTING:
+1. Added plot_psd() to plot the psd of an array (works with 1-d and 2-d array only for now.)
+2. Updated plot_eventsequence() to have the option of plotting depth as the ydata.
+
+UTILS:
+1. Minor bug fixes in read_gmtlines()
+2. Added psd() to get the power spectral density of an array
+
+==================================================================
+Updates in v0.6.3.1
+1. Fixed the size issue when saving "time" to ASDF file. HDF file limits the attribute
+  size to 64k or less. We split time to time_mean and np.float32(time) to reduce the size.
+  This is a temporary fix. Hopefully HDF could lift the size limit for attributes.
+
+==================================================================
+Updates in v0.6.3
+NOISE
+1. Removed ncomp in do_correlation(). Setup a warning message if old usage is used.
+2. Change defaults for acorr_only and xcorr_only both to False in do_correlation().
+3. Added option to stack in merging(). This option could replace do_stacking() if no
+  rotation. Renamed merging() to merge_pairs(). The old name is kept for compatibility.
+4. Updated extract_corrdata() to read "side" attribute if available.
+5. Added merge_chunks() to merge correlation files, to reduce the number of files, with
+  the option for stacking.
+
+
+DOWNLOADERS
+1. Return inventory in get_event_waveforms()
+2. Drop duplicates in get_sta_list() and fixed minor bug when channels might be skipped.
+3. Change default region to globe in get_events()
+
+UTILS
+1. Added mag_duration(), modified from obspyDMT.utils.event_handler.py
+2. Renamed qml_to_event_list() to qml2list(). Added option to convert to pandas dataframe.
+3. Fixed a bug in slicing_trace(), where the index was float instead of integer.
+4. Added get_filelist() and slice_list().
+5. Fixed a bug in sclicing_trace() when returning zeros array with errors. changed to return
+    empty arrays.
+
+PLOTTING
+1. Added plot_eventsequence() to plot event with time.
+
+TYPES
+1. Added "side" attribute in CorrData() to mark whether the corrdata is two-sided or one-side only.
+2. Revised CorrData.plot() to check "side" attribute when plotting.
+3. Added copy() method in CorrData class to allow the user to copy the object, to avoid directly
+  modifying the object values.
+4. Added split() method in CorrData class to split the negative and positive sides of the data. This
+  is needed when the user wants to analyze the two sides separately.
+5. Removed ngood attribute from CorrData, corresponding changes have been implemented for other
+  functions in "noise".
+6. Added subset() method in CorrData() to subset data by time range.
+7. Added filter() method in CorrData() to filter corrdata.data.
+8. Added DvvData class to store dvv monitoring data.
+
+MONITORING
+1. Added get_dvv() as a wrapper to measure dvv with given CorrData object.
+2. Added extract_dvvdata() to extract DvvData object from a ASDF file.
+
+OBSMASTER
+1. Removed getdata() and deprecated getobsdata(). Data downloading is now handled all by downloaders.
+
+==================================================================================
+==================================================================================
+Updates in v0.6.2
+
+PLOTTING
+1. Added plot_stations() to plot seismic station map using GMT
+
+2. Fixed minor bugs in plot_waveform()
+
+3. Updated plot_corrfile() to take more options, more consistent with CorrData.plot()
+
+
+DOWNLOADERS
+1. Fixed bug in get_event_waveforms() where only one station was downloaded. now it downloads
+all station data.
+
+2. Return Stream() for waveform data.
+
+UTILS
+1. Added subsetindex()
+2. Added points_in_polygon() and generate_points_in_polygon()
+3. Added read_gmtlines() to read in line segments in GMT style.
+4. Added read_ncmodel3d to read 3-D model files in netCDF format.
+5. Added read_ncmodel2d to read 2-D model files in netCDF format.
+6. Added ncmodel_in_polygon to extract seismic model within polygons.
+
+TYPES
+1. Pushed cc_len and cc_step in CorrData.
+2. Added in CorrData.stack() the option to stack over segmented time windows.
+
+SETUP
+1. Added requirement for shapely and netCDF4 packages.
