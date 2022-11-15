@@ -1,0 +1,1014 @@
+id,survey_id,name,external_db,external_id,lat,lon,date,max_date,area,mean_slope,mean_thickness,mean_thickness_uncertainty,max_thickness,max_thickness_uncertainty,number_points,number_profiles,length_profiles,interpolation_method,flag,remarks
+1,1,Isfallsglaciären,WGI,SE4B000E0006,67.915,18.568,1979-03-01,1979-03-31,1.3,,72,,220,,,,,,,
+2,1,Rabots glaciär,WGI,SE4B000E1016,67.91,18.496,1979-03-01,1979-03-31,4.1,,84,,175,,,10,,,,
+3,1,Storglaciären,WGI,SE4B000E0005,67.9,18.57,1979-03-01,1979-03-31,3.1,,99,,250,,,,,,,
+4,2,South Cascade Glacier,WGI,US2M00264006,48.35698,-121.05735,1975-01-01,1975-12-31,2,,99,,195,,,,,,,
+5,3,Athabasca Glacier,FOG,7,52.1754,-117.284,,,3.8,,150,,,,,,,,,
+6,4,Dinwoody Glacier,,,43.17324,-109.63833,,,1.5,,55,,111,,,,,,,MAX_THICKNESS: Marston et al. 1991 (https://doi.org/10.1080/02723646.1991.10642421)
+7,5,Whitney Glacier,FOG,192,41.41401,-122.21133,1981-01-01,1981-12-31,1.38,,20,,38,,,,,,,
+8,6,Grinnell Glacier,FOG,217,48.75,-113.73,1981-01-01,1981-12-31,1,,64,,,,,,,,,
+9,6,Maclure Glacier,,,37.74668,-119.28274,1981-01-01,1981-12-31,0.2,,17,,,,,,,,,
+10,7,Carbon Glacier,WGI,US2M00541001,46.93,-121.78,1981-01-01,1981-12-31,7.9,,90,,215,,,,,,,
+11,7,Coalman Glacier,,,45.37284,-121.69973,1981-01-01,1981-12-31,0.1,,14,,25,,,,,,,
+12,7,Coe Glacier,,,45.3833,-121.6944,1981-01-01,1981-12-31,1.2,,43,,88,,,,,,,
+13,7,Collier Glacier,,,44.1652,-121.7836,1981-01-01,1981-12-31,1.1,,19,,91,,,,,,,
+14,7,Diller Glacier,,,44.1432,-121.7739,1981-01-01,1981-12-31,0.7,,20,,59,,,,,,,
+15,5,Eliot Glacier,,,45.3808,-121.6803,1981-01-01,1981-12-31,1.7,,54,,110,,,,,,,
+16,5,Emmons Glacier,WGI,US2M00531003,46.85,-121.72,1981-01-01,1981-12-31,11,,60,,185,,,,,,,
+17,5,Hayden Glacier,,,44.1524,-121.7762,1981-01-01,1981-12-31,0.7,,26,,65,,,,,,,
+18,5,Ladd Glacier,,,45.3916,-121.7048,1981-01-01,1981-12-31,0.9,,33,,76,,,,,,,
+19,5,Langille Glacier,,,45.3922,-121.68,1981-01-01,1981-12-31,0.4,,20,,,,,,,,,
+20,5,Lost Creek Glacier,,,44.1075,-121.7836,1981-01-01,1981-12-31,0.5,,21,,67,,,,,,,LAT/LON: Wikipedia
+21,5,Newton Clark Glacier,,,45.3667,-121.6867,1981-01-01,1981-12-31,2,,20,,73,,,,,,,
+22,5,Nisqually Glacier,WGI,US2M00553003,46.82,-121.74,1981-01-01,1981-12-31,4.6,,48,,133,,,,,,,
+23,5,Palmer Glacier,,,45.3525,-121.7075,1981-01-01,1981-12-31,0.13,,16,,50,,,,,,,
+24,8,Prouty Glacier,,,44.1057,-121.7598,1981-01-01,1981-12-31,1,,17,,38,,,,,,,
+25,5,Reid Glacier,FOG,3567,45.37141,-121.71789,1981-01-01,1981-12-31,0.8,,24,,49,,,,,,,
+26,5,Russell Glacier,WGI,US2M00541002,46.8978,-121.7889,1981-01-01,1981-12-31,3.3,,26,,73,,,,,,,
+27,5,Sandy Glacier,,,45.3797,-121.7167,1981-01-01,1981-12-31,1.2,,21,,61,,,,,,,
+28,5,Tahoma Glacier,WGI,US2M00543002,46.83,-121.82,1981-01-01,1981-12-31,8.7,,52,,146,,,,,,,
+29,5,White River Glacier,WGI,US2M10426010,45.3575,-121.6975,1981-01-01,1981-12-31,0.5,,16,,38,,,,,,,
+30,5,Wilson Glacier,WGI,US2M00553002,46.8219,-121.7525,1981-01-01,1981-12-31,1.4,,38,,88,,,,,,,
+31,5,Winthrop Glacier,WGI,US2M00532001,46.8761,-121.7419,1981-01-01,1981-12-31,9.2,,57,,98,,,,,,,
+32,8,Zigzag Glacier,,,45.3633,-121.7122,1981-01-01,1981-12-31,0.8,,22,,62,,,,,,,
+33,9,Easton Glacier,FOG,1367,48.75,-121.83,1992-01-01,1992-12-31,2.9,0,58,,107,,64,,,,,
+34,10,Lemon Creek Glacier,FOG,3334,58.38,-134.36,1956-06-21,1956-09-22,11.7,0,66,,200,,182,,,,,
+35,11,Praviy Aktru,WGI,SU5A15106127,50.06134,87.69741,,,5.15,0,56,,,,,,,,,
+36,11,Maliy Aktru,WGI,SU5A15106126,50.04967,87.74552,,,2.84,0,86,,,,,,,,,
+37,11,Leviy Aktru,WGI,SU5A15106128,50.08008,87.69025,,,5.95,0,90,,,,,,,,,
+38,11,Vodopadniy,FOG,780,50.0503,87.7886,,,0.75,0,55,,,,,,,,,
+39,12,Batysh Sook Glacier,FOG,781,41.78681,77.74927,,,1.18,0,34,,,,,,,,,
+40,12,Sary-Tor Glacier,FOG,805,41.825132,78.176022,,,3.61,0,53,,,,,,,,,
+41,12,Golubin Glacier,FOG,753,42.45448,74.49766,,,5.757,0,53,,,,,,,,,
+42,12,Davidova Glacier,FOG,804,41.8273,78.20493,,,11.32,0,61,,,,,,,,,
+43,13,Karabatkak Glacier,FOG,813,42.14031,78.2728,,,4.19,0,53,,,,,,,,,
+44,13,Tuyuksu (central),FOG,817,43.05,77.08,,,2.72,0,104,,,,,,,,,
+45,14,Fedchenko Glacier,,,38.767,72.283,,,824,0,175,,900,,,,,,,LAT/LON: Wikipedia
+46,15,Abramov Glacier,FOG,732,39.6097,71.56986,,,22.5,0,110,,,,,,,,,
+47,13,31,FOG,3534,62.58879,140.86536,,,3.2,0,76,,,,,,,,,
+48,16,Kavrayskogo,WGI,SU5X13207002,45.23645,80.78166,1962-01-01,1962-12-31,3.2,0,49,,116,,,,,,,LAT/LON: FoG 2009
+49,16,Krasovskogo,WGI,SU5X13207003,45.23513,80.80835,1962-01-01,1962-12-31,3.4,0,49,,139,,,,,,,LAT/LON: Katalog Lednikow
+50,17,214,WGI,SU5X13205214,44.92845,79.13669,1981-01-01,1981-12-31,1,0,52,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+51,17,252,WGI,SU5X13205252,44.883,79.285,1981-01-01,1981-12-31,2,0,43,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+52,17,Kaskabulakskii,WGI,SU5X13205253,44.883,79.317,1981-01-01,1981-12-31,2.8,0,52,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+53,17,259,WGI,SU5X13205259,44.917,79.317,1981-01-01,1981-12-31,1.2,0,47,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+54,17,Ajusaiskii,WGI,SU5X13205180,44.85772,79.45203,1981-01-01,1981-12-31,2.2,0,45,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+55,17,183,WGI,SU5X13205183,44.83929,79.46103,1981-01-01,1981-12-31,1.6,0,49,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+56,17,Khejerdala,WGI,SU5X13206016,44.97,79.42,1981-01-01,1981-12-31,5.3,0,54,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+57,17,Korjunskii,WGI,SU5X13205173,44.89076,79.48539,1981-01-01,1981-12-31,2.3,0,67,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+58,17,Mgg,WGI,SU5X13206026,44.97,79.53,1981-01-01,1981-12-31,2,0,37,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+59,17,Ekspeditsiy,WGI,SU5X13206029,44.95518,79.54601,1981-01-01,1981-12-31,1.5,0,39,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+60,17,Rodina,WGI,SU5X13206030,44.95315,79.56239,1981-01-01,1981-12-31,1.1,0,32,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+61,17,Shnitnikova,WGI,SU5X13205142,44.933,79.667,1981-01-01,1981-12-31,2.9,,44,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+62,17,36,WGI,SU5X13206036,44.95,79.63,1981-01-01,1981-12-31,2.9,,54,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+63,17,40,WGI,SU5X13206040,44.96236,79.66344,1981-01-01,1981-12-31,2,,40,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+64,17,41,WGI,SU5X13206041,44.97,79.68,1981-01-01,1981-12-31,1,,37,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+65,17,Kartaygan,WGI,SU5X13206049,44.99511,79.75732,1981-01-01,1981-12-31,1.5,0,58,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+66,17,Ashar,WGI,SU5X13206053,45,79.82,1981-01-01,1981-12-31,1.7,0,51,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+67,17,54,WGI,SU5X13206054,45.00802,79.83536,1981-01-01,1981-12-31,1.8,,59,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+68,17,Maliy Useksiy,,,44.5841,79.4753,1981-01-01,1981-12-31,2.6,0,50,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+69,17,Denisov,,,44.5858,79.498,1981-01-01,1981-12-31,1,0,47,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+70,17,Satili,,,44.68684,79.55124,1981-01-01,1981-12-31,2.7,,36,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+71,17,305,,,44.7016,79.5927,1981-01-01,1981-12-31,1,0,47,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+72,17,59,,,44.722,79.648,1981-01-01,1981-12-31,1,0,29,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+73,17,Karabulaksiy,FOG,749,44.7049,79.7181,1981-01-01,1981-12-31,1.5,1,31,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+74,17,Juytas,,,44.685,79.7254,1981-01-01,1981-12-31,2.1,0,54,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+75,17,261,,,44.679,79.7375,1981-01-01,1981-12-31,1.1,0,49,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+76,17,Keregetas,,,44.6667,79.7391,1981-01-01,1981-12-31,1.7,0,25,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+77,17,Bolshoy Koksaysk,,,44.7404,79.961,1981-01-01,1981-12-31,2.8,0,48,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+78,17,Kazanskii,WGI,SU5X13205092,44.77608,79.93852,1981-01-01,1981-12-31,3.8,0,47,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+79,17,82,WGI,SU5X13205082,44.77695,79.82588,1981-01-01,1981-12-31,2.9,0,45,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Katalog Lednikow
+80,17,93,,,44.582,80.29,1981-01-01,1981-12-31,0.8,0,40,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+81,17,Panfilova,,,44.5821,80.2741,1981-01-01,1981-12-31,4.2,0,49,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+82,17,Khorgosskiy,,,44.5846,80.2417,1981-01-01,1981-12-31,2.5,0,42,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+83,17,Tishkan,,,44.6142,80.1426,1981-01-01,1981-12-31,2.1,0,27,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+84,17,Majak Vostochniy,,,44.5723,80.172,1981-01-01,1981-12-31,1.4,0,59,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+85,17,125,,,44.5804,80.1887,1981-01-01,1981-12-31,1.9,0,36,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+86,17,Majak Zapadniy,,,44.56647,80.12033,1981-01-01,1981-12-31,0.9,0,48,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+87,17,Sagrir,,,44.59,80.1179,1981-01-01,1981-12-31,1.5,0,33,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+88,17,168,,,44.6254,80.1304,1981-01-01,1981-12-31,1.3,,35,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+89,17,163,,,44.5927,80.1082,1981-01-01,1981-12-31,0.8,,29,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+90,17,162,,,44.5901,80.0912,1981-01-01,1981-12-31,1.4,,30,,,,,,,,,MEAN_SLOPE: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | LAT/LON: Google Earth
+91,18,Shumskogo,WGI,SU5A03003025,45.08,80.23,1984-01-01,1984-12-31,2.82,0,62,,,,,,,,,LAT/LON: FoG 2009
+92,18,Muravlev,FOG,796,45.0958,80.23832,1984-01-01,1984-12-31,1,0,61,,,,,,,,,
+93,19,Brandner Gletscher,WGI,AT4R013IL029,47.06,9.6983,1955-01-01,1955-12-31,1.84,,20,3,,,,25,,,,
+94,20,Findelengletscher,WGI,CH4N01356003,46,7.87,,,19.09,,78,,,,,,,,,
+95,20,Tuxer Ferner,WGI,AT4J143ZI110,47.0654,11.6636,,,4.59,,20,,,,,,,,,
+96,21,Gepatschferner,WGI,AT4J143FA022,46.8458,10.7487,1953-01-01,1953-12-31,17.69,,71,,200,,,,,,,
+97,22,Großer Gosaugletscher,WGI,AT4J142TR004,47.48,13.6,1968-01-01,1968-12-31,1.33,,29,,80,,,3,,,,MAX_THICKNESS: Maximum measured ice thickness
+98,23,Gurgler Ferner,WGI,AT4J143OE074,46.790188,10.981328,1956-01-01,1956-12-31,11.14,,36,10,,,,17,,,,
+99,20,Guslarferner,WGI,AT4J143OE132,46.85,10.8,,,1.76,,49,,,,,,,,,
+100,22,Hallstätter Gletscher,WGI,AT4J142TR002,47.48,13.62,1968-01-01,1968-12-31,3.58,,33,,92,,,,,,,MAX_THICKNESS: Maximum measured ice thickness
+101,24,Hintereisferner,WGI,AT4J143OE125,46.8,10.77,1954-01-01,1954-12-31,8,,50,,290,,,23,14,,,
+102,25,Kesselwandferner,WGI,AT4J143OE129,46.8383,10.7933,1953-01-01,1953-12-31,4.24,,67,,,,,,,,,
+103,20,Pasterze Gletscher,WGI,AT4J131MO027,47.1,12.7,,,19.78,,63,,,,,,,,,
+104,22,Schladminger Gletscher,WGI,AT4J142TR001,47.47,13.63,1967-01-01,1967-12-31,0.9,,9,,30,,,3,,,,MAX_THICKNESS: Maximum measured ice thickness
+105,26,Schmiedingerkees,WGI,AT4J143SA081,47.193452,12.685416,1966-01-01,1966-12-31,1.44,,32,,,,,,,,,
+106,27,Sulztalferner,WGI,AT4J143OE022,47.000215,11.076637,1957-01-01,1957-12-31,4.14,,48,,,,,9,,,,
+107,20,Vernagtferner,WGI,AT4J143OE133,46.88,10.82,,,9.56,,61,,,,,,,,,
+108,20,Zmuttgletscher,WGI,CH4N01357005,45.99554,7.62932,,,16.98,,79,,,,,,,,,
+109,28,Aldegondabreen,WGI,NO4W01410008,77.97,14.092,,,10.3,,69,,150,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+110,28,Antoniabreen,WGI,NO4W01310016,77.4722,14.9968,,,32,,125,,350,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+111,28,Bertilbreen,WGI,NO4W01450014,78.6944,16.2654,,,6,,73,,140,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+112,28,Bogerbreen,WGI,NO4W01420006,78.1316,15.6254,,,4.5,,67,,145,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+113,28,Austre Brøggerbreen,WGI,NO4W01550004,78.88,11.83,,,13.3,,57,,135,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+114,28,Vestre Brøggerbreen,WGI,NO4W01550003,78.911,11.7267,,,5.6,,43,,95,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+115,28,Voringbreen,WGI,NO4W01410005,78.0412,13.958,,,2.1,,62,,120,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+116,28,Dahlfonna,WGI,NO4W01410001,77.8978,14.0176,,,9.8,,88,,110,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+117,28,Leinbreen,,,77.465,15.3287,,,4.1,,76,,110,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+118,28,Midtre Lovénbreen,WGI,NO4W01550006,78.88,12.07,,,5.8,,64,,150,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+119,28,Märjelenbreen,WGI,NO4W01320004,77.4474,15.4583,,,6.4,,73,,120,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+120,28,Penckbreen,WGI,NO4W01320005,77.4745,15.6411,,,83,,107,,150,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+121,28,Revtannbreen,,,77.4794,15.1349,,,5.9,,49,,125,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+122,28,Suessbreen,,,77.4253,15.8111,,,9,,60,,130,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+123,28,Finsterwalderbreen,WGI,NO4W01320002,77.483,15.25,,,38,,74,,175,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+124,28,Hessbreen,WGI,NO4W01320001,77.5082,15.1125,,,7.2,,64,,115,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+125,28,Erdmannbreen,WGI,NO4W01370009,77.8792,14.108,,,11.2,,126,,210,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+126,28,Borebreen,WGI,NO4W01490000,78.4417,13.9,,,120,,111,,185,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+127,28,Bjørnbreen,,,77.3721,15.1641,,,34.9,,70,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+128,28,Wahlenbergbreen,,,78.5843,13.8587,,,96.6,,133,,195,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+129,28,Werenskioldbreen,,,77.0746,15.3439,,,34,,88,,320,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+130,28,Vestgötabreen,,,78.462,12.9026,,,12.6,,100,,145,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+131,28,Veteranen,WGI,NO4W01720000,79.2837,17.2692,,,165,,148,,500,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+132,28,Hydrografbreen,,,78.4552,12.7506,,,12.8,,63,,110,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+133,28,Vestre Grønfjordbreen,,,77.9116,14.1991,,,36.4,,77,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+134,28,Austre Grønfjordbreen,,,77.916,14.3433,,,12.1,,62,,210,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+135,28,Cookbreen,WGI,NO4W01690001,79.2594,16.4557,,,18,,196,,310,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+136,28,Idabreen,,,79.599,12.2719,,,11.4,,68,,100,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+137,28,Kantbreen,WGI,NO4W01720007,79.3253,17.8059,,,24.9,,150,,330,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+138,28,Kongsvegen,WGI,NO4W01550010,78.8,12.98,,,140,,56,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+139,28,Løvliebreen,WGI,NO4W01530005,78.4754,13.0411,,,11,,99,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+140,28,Mittag-Lefflerbreen,WGI,NO4W01680000,78.8158,16.7082,,,190,,170,,540,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+141,28,Nansenbreen,WGI,NO4W01490001,78.3763,13.8982,,,47,,70,,120,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+142,28,Negribreen,WGI,NO4W01110000,78.5808,19.038,,,553,,184,,385,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+143,28,Nordenskiöldbreen,WGI,NO4W01450000,78.7,17.183,,,130,,84,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+144,28,Aavatsmarkbreen,WGI,NO4W01540000,78.7017,12.1419,,,54,,67,,120,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+145,28,Orsabreen,WGI,NO4W01470010,78.9703,14.2748,,,56,,178,,315,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+146,28,Recherchebreen,WGI,NO4W01310000,77.4368,14.8192,,,82,,293,,430,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+147,28,Sveabreen,WGI,NO4W01480000,78.6945,13.6135,,,174,,49,,140,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+148,28,Sefströmbreen,WGI,NO4W01470013,78.7471,13.9472,,,110,,167,,205,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+149,28,Tunabreen,WGI,NO4W01440000,78.497,17.4324,,,77,,46,,125,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+150,28,Vestre Torellbreen,WGI,NO4W01250000,77.2857,14.9949,,,217,,273,,430,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+151,28,Uversbreen,WGI,NO4W01540012,78.8121,12.3434,,,74,,90,,165,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+152,28,Fridtjovbreen,WGI,NO4W01370000,77.8449,14.4051,,,63,,169,,320,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+153,28,Hansbreen,WGI,NO4W01240019,77.0629,15.6384,,,72,,165,,330,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+154,28,Holmesletbreen,,,78.48496,12.8681,,,2.4,,58,,150,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+155,28,Skipperbreen,,,78.479,12.84,,,3.6,,72,,165,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+156,28,Holmströmbreen,WGI,NO4W01470000,78.8321,14.0592,,,77,,79,,210,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+157,28,Stubendorffbreen,WGI,NO4W01680021,78.9713,16.7199,,,55,,140,,260,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+158,28,Eidembreen,,,78.4075,13.2004,,,103,,94,,145,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+159,28,Elnabreen,WGI,NO4W01640010,79.1614,14.1237,,,8.9,,69,,180,,,,,,suspect,"FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+160,28,Åsgardfonna,,,79.5851,16.6261,,,1740,,110,,350,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+161,28,Balderfonna,FOG,3473,79.3079,18.1286,,,418,,64,,330,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+162,28,Valhallfonna,,,79.6696,17.259,,,410,,105,,350,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+163,28,Odinjøkulen,,,79.5741,18.2908,,,58,,39,,120,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+164,28,Torsfonna,,,79.5041,18.2782,,,83,,52,,215,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+165,29,Foxfonna,,,78.1287,16.1716,,,14.8,,34,,120,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+166,30,Austfonna,,,79.7931,24.6645,1958-01-01,1958-12-31,8020,,140,,576,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+167,30,Vestfonna,,,79.9409,20.8027,1958-01-01,1958-12-31,2670,,134,,375,,,,,,suspect,"MEAN_THICKNESS: Differs from Bahr et al. 1997 (https://doi.org/10.1029/97JB01696) | FLAG: According to Dowdeswell et al. 1984 (https://doi.org/10.3189/S0022143000008431), Macheret and Zhuravlev 1982 (https://doi.org/10.3189/S0022143000011643) wrongly interpreted the interface between cold and temperate ice as the bed on many glaciers."
+168,31,Graham Bell Island,,,80.8664,64.2892,1993-01-01,1993-12-31,1196.3,,209,,450,,,,,,,
+169,31,La Ronciere Island,,,80.9822,60.9942,1993-01-01,1993-12-31,397.3,,174,,310,,,,,,,
+170,31,Eva-Liv Island,,,81.6333,63.1,1993-01-01,1993-12-31,264,,156,,310,,,,,,,
+171,31,Freeden,,,62.0394,81.5559,1993-01-01,1993-12-31,37.1,,94,,185,,,,,,,
+172,31,Wilczek Land,,,80.5833,60.5,1993-01-01,1993-12-31,1855.3,,187,,383,,,,,,,
+173,31,Hall Island,,,80.35,57.85,1993-01-01,1993-12-31,907,,149,,290,,,,,,,
+174,31,Rainer Island,,,81.3586,58.9914,1993-01-01,1993-12-31,131.2,,144,,281,,,,,,,
+175,31,Rudolf Island,,,81.7672,58.56,1993-01-01,1993-12-31,284.7,,137,,310,,,,,,,
+176,31,Hohenlohe Island,,,81.6046,58.5169,1993-01-01,1993-12-31,25.8,,50,,102,,,,,,,
+177,31,Moon Ice Cap,,,80.6339,46.5839,1993-01-01,1993-12-31,647.7,,144,,312,,,,,,,
+178,31,Kropotkin Ice Cap,,,78.47194,101.66469,1993-01-01,1993-12-31,119.3,,121,,240,,,,,,,
+179,31,Brusilov Ice Cap,,,80.6188,50.19004,1993-01-01,1993-12-31,889.3,,176,,298,,,,,,,
+180,31,Karl Alexander Land,,,81.42,58.03,1993-01-01,1993-12-31,320.7,,,,280,,,,,,,
+181,31,Wiener Neustadt,,,80.8,58.3333,1993-01-01,1993-12-31,216.6,,,,225,,,,,,,
+182,31,McClintock Island,,,80.1575,56.4856,1993-01-01,1993-12-31,569.6,,,,210,,,,,,,
+183,31,Ziegler,,,80.95649,57.3039,1993-01-01,1993-12-31,357.3,,,,185,,,,,,,
+184,31,Jackson Island,,,81.2297,56.6289,1993-01-01,1993-12-31,452.2,,,,250,,,,,,,
+185,31,Payer,,,81.1596,57.52763,1993-01-01,1993-12-31,141.1,,,,238,,,,,,,
+186,31,Greely Island,,,81.0044,58.2978,1993-01-01,1993-12-31,128.9,,,,215,,,,,,,
+187,31,Hooker Island,,,80.23,53.02,1993-01-01,1993-12-31,432.9,,,,200,,,,,,,
+188,31,Leigh-Smith Island,,,80.2502,54.2544,1993-01-01,1993-12-31,55,,,,145,,,,,,,
+189,31,Salisbury Island,,,80.9167,56.1333,1993-01-01,1993-12-31,861.1,,,,274,,,,,,,
+190,31,Luigi,,,80.7917,54.9572,1993-01-01,1993-12-31,294.9,,,,140,,,,,,,
+191,31,Champ Island,,,80.68941,56.23261,1993-01-01,1993-12-31,286.6,,,,210,,,,,,,
+192,31,Wilczek,,,79.95607,58.59055,1993-01-01,1993-12-31,29.2,,,,101,,,,,,,
+193,31,Salm Island,,,80.0667,59.2667,1993-01-01,1993-12-31,263.3,,,,250,,,,,,,
+194,14,Osbornebreen,WGI,NO4W01530000,78.6544,13.1263,,,118,,156,,280,,,,,,,
+195,14,Comfortlessbreen,WGI,NO4W01540011,78.7649,12.1302,,,56.4,,175,,300,,,,,,,
+196,32,Laika Glacier,FOG,1412,75.89698,-79.11766,1975-01-01,1975-12-31,4.17,,,,100,,,,,,,
+197,14,Obruchev,WGI,SU5A03003026,67.63654,65.78011,,,0.32,,63,,,,,,,,,
+198,14,Igan,WGI,SU5A03003027,67.57893,66.00031,,,1.25,,38,,,,,,,,,
+199,14,McCall Glacier,WGI,US2A00205046,69.28,-143.83,,,7.4,,83,,250,,,,,,,
+200,33,Upper Fremont Glacier,,,43.1311,-109.6161,1990-01-01,1991-12-31,1.52,,77,,172,,,,,other,partial,"FLAG/INTERPOLATION_METHOD: MEAN_THICKNESS estimated from centerline profile in Figure 1, Naftz and Smith 1993 (https://doi.org/10.1080/02723646.1993.10642488)"
+201,34,Columbia Glacier,WGI,US2N00500627,61.06472,-147.06135,,,1050,,277,,1050,,,,,,,
+202,35,Black Rapids Glacier,FOG,80,63.48,-146.5,1976-03-21,1990-05-26,246,,235,,603,,,,,other,partial,FLAG/INTERPOLATION_METHOD: MEAN_THICKNESS estimated from profiles in Heinrichs et al. 1995 (https://doi.org/10.3133/ofr94512)
+203,36,Rusty Glacier,WGI,CA2O014AS091,61.2,-140.302,1968-01-01,1968-12-31,4.97,,36,,88,,,,,,,
+204,37,Hazard Glacier,WGI,CA2O014AS100,61.259,-140.366,1976-08-01,1976-08-31,12.2,,72,,200,,,,,,,
+206,14,Vatnajökull,,,64.4,-16.8,,,8400,,420,,,,,,,,,
+207,14,Meighen Ice Cap,FOG,16,79.95,-99.13,,,76,,29,,,,,,,,,
+208,14,Barnes Ice Cap,FOG,3371,70,-73.5,,,5936,,267,,,,,,,,,
+209,14,Penny Ice Cap,WGI,CA2T50000322,67.3,-66.1,,,5960,,270,,,,,,,,,
+210,14,Devon Ice Cap,FOG,3586,75.2,-81.9,,,12790,,526,,,,,,,,,
+211,14,Agassiz Ice Cap,FOG,3370,80.4,-75,,,20400,,541,,,,,,,,,
+212,38,Goldbergkees,FOG,1305,47.0421,12.9702,2004-01-01,2004-12-31,1.04,,48,11,162,36,,,,kriging,,
+213,38,Kleinfleißkees,FOG,547,47.05,12.95,2004-01-01,2004-12-31,1.26,,42,9,153,34,,,,kriging,,
+214,39,Hofsjökull,,,64.8167,-18.8167,1983-01-01,1983-12-31,923,,215,15,750,15,,,,,,
+215,40,Oberes Wurtenkees,,,47.0344,13.0148,2003-01-01,2003-12-31,0.46,,13,5,40,15,,5,3,,,
+216,40,Unteres Wurtenkees,,,47.0385,13.0061,2003-01-01,2003-12-31,0.38,,40,8,79,15,,,,,,
+217,41,Bowles Plateau,,,-62.62645,-60.24166,2006-01-01,2006-12-31,21.8,,265,,500,,,,101.5,,,
+218,42,Jostedalsbreen,,,61.70192,7.04885,1985-01-01,1985-12-31,60,,225,,600,,,,600,,,
+219,43,Aletschgletscher,WGI,CH4N01336026,46.5,8.03,1958-01-01,1958-12-31,86.76,,,,890,,,,,,partial,AREA: WGI (1969 or 1973) | FLAG/MEAN_THICKNESS: Valid for investigation area (Konkordiaplatz) only | MAX_THICKNESS: From measured values
+220,44,Claridenfirn,WGI,CH4R0140I019,46.8464,8.9006,1993-03-01,1993-03-31,5.64,,39,,300,,,5,,,,
+221,45,Gurenhekou,WGI,CN5O270B0355,30.193,90.447,2007-01-01,2007-12-31,1.4,,36,,121,,,,,kriging,,
+222,46,Kangwure,WGI,CN5O192CE001,28.472,85.818,2008-01-01,2008-12-31,1.96,,47,,66,,,,,kriging,,
+223,47,Trapridge Glacier,WGI,CA2O014AS093,61.222,-140.333,1972-01-01,1972-12-31,5.49,,,,143,,,,,,,
+224,48,Taku Glacier,FOG,124,58.55,-134.13,1993-01-01,1993-12-31,671,,,,1477,30,,,,,,
+229,49,Langjökull,,,64.75,-19.9831,1997-01-01,1997-12-31,925,,,,580,,,,,,,
+230,50,Lambert Glacier,,,-71,70,1972-01-01,1972-12-31,40000,,,,2500,,,,,,,LAT/LON and AREA: Wikipedia
+231,51,Roslin Glacier,,,71.85,-25,1970-01-01,1970-12-31,,,,,370,,,,,,,
+232,52,Glaciar Toro 1,,,-29.3346,-70.0247,2004-01-01,2004-12-31,0.071,,,,20,,,,,,,
+233,52,Glaciar Toro 2,,,-29.3323,-70.0275,2004-01-01,2004-12-31,0.066,,,,12,,,,,,,
+234,52,Glaciar Esperanza,WGI,CL1H11000013,-29.3295,-70.0369,2004-01-01,2004-12-31,0.041,,,,36,,,,,,,
+235,52,Glaciar Guanaco,WGI,CL1H11000018,-29.3484,-70.0204,2004-01-01,2004-12-31,1.836,,,,120,,,,,,,
+236,53,Nevado Coropuna,,,-15.55021,-72.63794,2004-01-01,2004-12-31,57.3,,81,16,,,,,10.6,,,
+237,54,McCall Glacier,WGI,US2A00205046,69.28,-143.83,2006-01-01,2006-12-31,6.02,,82,,,,,19,,triangulation,,
+304,55,Goldbergkees,FOG,1305,47.0421,12.9702,1971-01-01,1972-12-31,1.6,,14,,,,,,,,,
+305,55,Oberes Wurtenkees,WGI,AT4J131MO038,47.0344,13.0148,1971-01-01,1972-12-31,0.8,,8,,,,,,,,,
+306,55,Unteres Wurtenkees,WGI,AT4J131MO038,47.0385,13.0061,1971-01-01,1972-12-31,1.3,,21,,,,,,,,,
+307,55,Kleinfleißkees,FOG,547,47.05,12.95,1971-01-01,1972-12-31,1.2,,23,,,,,,,,,
+308,56,Daunkogelferner,WGI,AT4J143SI036,46.9877,11.1052,,,1.5,,34,,80,,,,,,,MAX_THICKNESS: Maximum measured ice thickness
+309,57,Guslarferner,WGI,AT4J143OE132,46.85,10.8,1966-01-01,1967-12-31,1.7,,28,,,,,,,,,
+310,56,Vermuntgletscher,FOG,482,46.85,10.13,,,2.4,,10,,17,,,,,,,MAX_THICKNESS: Maximum measured ice thickness
+311,58,Hornkees,FOG,589,46.9968,11.818074,1968-01-01,1968-12-31,3,,47,,,,,,,,,
+312,59,Untersulzbachkees,FOG,582,47.13,12.35,1973-01-01,1974-12-31,4.1,,74,,,,,,,,,
+313,60,Tuxer Ferner,WGI,AT4J143ZI110,47.0654,11.6636,1969-01-01,1969-12-31,4.2,,20,,60,,,,,,,LAT/LON: WGI | MAX_THICKNESS: Maximum measured ice thickness
+314,61,Sulztalferner,WGI,AT4J143OE022,47.000215,11.076637,,,4.6,,48,,,,,,,,,
+315,56,Schlatenkees,FOG,580,47.1122,12.3839,,,9.3,,41,,105,,,,,,,MAX_THICKNESS: Maximum measured ice thickness
+316,62,Vernagtferner,WGI,AT4J143OE133,46.88,10.82,,,9.3,,61,,,,,,,,,
+317,59,Obersulzbachkees,FOG,583,47.1082,12.2919,1973-01-01,1974-12-31,11.2,,47,,,,,,,,,
+318,63,Pasterze Gletscher,WGI,AT4J131MO027,47.1,12.7,1970-01-01,1970-12-31,19.8,,67,,180,,,,,,,MAX_THICKNESS: Maximum measured ice thickness in the area 'Oberster Pasterzenboden'
+319,64,Gulkana Glacier,WGI,US2O01200001,63.28372,-145.41426,1976-03-28,,19.32,,,,,,19,,2,,,
+320,65,Kahiltna Glacier,FOG,3392,62.77,-151.3,2008-01-01,2010-12-31,475,,,,300,,,,,,,
+321,66,Variegated Glacier,,,59.9983,-139.3317,1973-06-01,1973-06-30,,5,270,,384,,,,,,,
+322,67,Johnsons Glacier,FOG,3366,-62.669,-60.3539,1999-01-01,2003-12-31,5.61,,97,2,160,,,,,,,DATE: 1999 and 2003
+323,67,Hurd Glacier,FOG,3367,-62.68017,-60.37403,2000-01-01,2004-12-31,4.73,,89,2,200,,,,,,,"DATE: 2000, 2001, 2003 and 2004"
+324,68,King George Island,,,-62.0333,-58.35,1997-01-01,2009-12-31,465,,238,,422,,,,,kriging,,
+325,69,Meighen Ice Cap,FOG,16,79.95,-99.13,1965-01-01,1965-12-31,85,,,,,,1,,,,,
+326,70,Lekhziri,WGI,SU5T09105247,43.156,42.7479,,,33.7,,,,235,,,,,,,AREA: WGI
+333,71,Dokriani Glacier,WGI,IN5O152D0019,30.855,78.818,1995-11-01,1995-11-30,9.7,12,30,,120,,,8,,,,
+334,72,Khumbu Glacier,WGI,NP5O191EA133,27.95,86.82,1999-01-01,1999-12-31,45.39,,,,440,20,,7,,,,AREA: WGI
+335,72,Lirung Glacier,,,28.2425,85.5524,1999-01-01,1999-12-31,9.246,,,,157,10,,5,,,,AREA: Bhatt et al. 2007 (https://doi.org/10.4081/jlimnol.2007.71)
+336,73,Chhota Shigri Glacier,WGI,IN5Q22700203,32.22422,77.50751,2009-10-01,2009-10-31,15.7,,,,270,15,,5,,,,
+337,74,Mittivakkat,FOG,1629,65.6957,-37.8032,1994-08-01,1994-08-31,17.6,,115,5,245,5,450,,,,,
+338,75,Quelccaya Ice Cap,WGI,PE1D35138070,-13.92737,-70.83701,2008-01-01,2008-12-31,42.8,,,,170,,,1,2.3,,,
+339,76,Academy of Science Ice Cap,,,80.475,94.8967,1997-01-01,1997-12-31,5575,,391,,819,,,,1657,kriging,,
+340,76,Otdelniy Ice Cap,,,80.0944,94.0905,1997-01-01,1997-12-31,133,,,,200,,,,,kriging,,MAX_THICKNESS: estimated from Figure 6 in Dowdeswell et al. 2002 (https://doi.org/10.1029/2000JB000129)
+341,77,Parteglaciären,WGI,SE4B000FA002,67.17,17.67,1996-01-01,1996-12-31,10,,,,140,,,,,,,
+343,78,Hardangerjøkulen,FOG,304,60.54581,7.43231,1998-01-01,1998-12-31,73,,,,380,,,,,,,
+344,79,Storbreen,WGI,NO4A000AD041,61.573395,8.131989,2005-01-01,2005-12-31,5.4,,115,,,,,,,,,
+345,79,Engabreen,WGI,NO4A000C4011,66.657,13.853,2005-01-01,2005-12-31,39.6,,205,,,,,,,,,
+347,80,Hoffellsjökull,FOG,3086,64.48,-15.57,2001-01-01,2001-12-31,212,,300,,560,,,,,,,
+348,81,Bering Glacier,FOG,3336,60.3022,-143.4197,2006-03-01,2006-03-31,5200,,,,1250,18,,,,,,LAT/LON: Wikipedia | AREA: www.beringglacier.org
+349,82,Black Rapids Glacier,FOG,80,63.48,-146.5,1993-01-01,1993-12-31,,2,,,700,,,,,,,
+350,83,Glaciar Tyndall,FOG,1013,-51.17,-73.33,1999-01-01,1999-12-31,337,,,,740,,,,,,,
+351,84,Lewis Glacier,FOG,695,-0.15681,37.314,1974-01-01,1980-12-31,0.39,,20,5,50,5,,,,,,AREA: WGI (1963)
+352,85,Scharffenbergbotnen,,,-74.5833,-11.6667,1988-01-01,1988-12-31,,,,,1050,10,,,,kriging,,
+358,86,Sperry Glacier,FOG,218,48.62495,-113.75707,2005-01-01,2008-12-31,1,10,26,,80,,,9,,kriging,,
+360,87,Davies Dome,,,-63.8833,-58.05,2010-01-01,2010-12-31,4.94,,32,1,83,2,,6,,other,,"INTERPOLATION_METHOD: Kriging, IDW, Minimum Curvature, Spatial Neighbour, Triangulation"
+361,87,Whisky Glacier,,,-63.9333,-57.95,2010-01-01,2010-12-31,2.4,,100,2,158,2,,6,,other,,"INTERPOLATION_METHOD: Kriging, IDW, Minimum Curvature, Spatial Neighbour, Triangulation"
+362,88,Pizolgletscher,WGI,CH4R0140D001,46.9595,9.3891,2010-02-16,,0.08068,22,15,5,36,5,5936,34,4.83,minimum curvature,,
+363,89,Mueller Glacier,FOG,1575,-43.75,170.02,1993-01-01,1993-12-31,16,,,,140,,,,,,,AREA: www.swisseduc.ch
+364,89,Tasman Glacier,WGI,NZ6B711I0012,-43.52,170.32,1993-01-01,1993-12-31,55,,,,110,,,,0.8,,,
+365,90,Tasman Glacier,WGI,NZ6B711I0012,-43.52,170.32,1972-01-01,1972-12-31,98.341,,,,220,,,,,,,AREA: WGI (1978)
+366,91,Stasher,,,50.08979,87.71608,1978-01-01,1997-12-31,0.24,,54,,91,,,,,,,LAT/LON: Google Earth
+367,91,54,WGI,SU5A15106054,49.74121,87.88602,1978-01-01,1997-12-31,0.609,,43,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+368,91,Vodopadniy,WGI,SU5A15106125,50.0503,87.7886,1978-01-01,1997-12-31,0.75,,55,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+369,91,134,WGI,SU5A15106134,50.13128,87.66963,1978-01-01,1997-12-31,0.772,,40,,99,,,,,,,LAT/LON: Katalog Lednikow USSR
+370,91,Maliy Korumdu,WGI,SU5A15106132,50.11442,87.70842,1978-01-01,1997-12-31,0.814,,39,,148,,,,,,,LAT/LON: Katalog Lednikow USSR
+371,91,Kar Malogo Aktru,WGI,SU5A15106126,50.0477,87.7803,1978-01-01,1997-12-31,0.91,,69,,109,,,,,,,LAT/LON: Katalog Lednikow USSR
+372,91,242,WGI,SU5A15105242,49.72665,88.03114,1978-01-01,1997-12-31,1.027,,51,,104,,,,,,,LAT/LON: Katalog Lednikow USSR
+373,91,243,WGI,SU5A15105243,49.72232,88.10583,1978-01-01,1997-12-31,1.223,,61,,122,,,,,,,LAT/LON: Katalog Lednikow USSR
+374,91,42,WGI,SU5A15106042,49.78558,87.96795,1978-01-01,1997-12-31,1.277,,46,,143,,,,,,,LAT/LON: Katalog Lednikow USSR
+375,91,31,WGI,SU5A15106031,49.77597,88.07932,1978-01-01,1997-12-31,1.349,,52,,130,,,,,,,LAT/LON: Katalog Lednikow USSR
+376,91,Praviy Mukhorojuk,WGI,SU5A15106108,49.88852,87.73479,1978-01-01,1997-12-31,1.539,,48,,126,,,,,,,LAT/LON: Katalog Lednikow USSR
+377,91,15,WGI,SU5A15105015,50.07029,87.49986,1978-01-01,1997-12-31,1.546,,43,,108,,,,,,,LAT/LON: Katalog Lednikow USSR
+378,91,18,WGI,SU5A15105018,50.04706,87.482,1978-01-01,1997-12-31,2.006,,48,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+379,91,Nekrasova,WGI,SU5A15106092,49.82363,87.74171,1978-01-01,1997-12-31,2.05,,38,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+380,91,Kurkurek,WGI,SU5A15106136,50.13119,87.64972,1978-01-01,1997-12-31,2.122,,58,,122,,,,,,,LAT/LON: Katalog Lednikow USSR
+381,91,Jan-Karasu,WGI,SU5A15106131,50.09583,87.71172,1978-01-01,1997-12-31,2.152,,40,,116,,,,,,,LAT/LON: Katalog Lednikow USSR
+382,91,Sofiyskiy Lednik,WGI,SU5A15106077,49.81319,87.74234,1978-01-01,1997-12-31,2.62,,61,,120,,,,,,,LAT/LON: Katalog Lednikow USSR
+383,91,8,WGI,SU5A15105008,50.09663,87.50012,1978-01-01,1997-12-31,2.7,,44,,128,,,,,,,LAT/LON: Katalog Lednikow USSR
+384,91,Maliy Aktru,WGI,SU5A15106126,50.05,87.767,1978-01-01,1997-12-31,2.84,,86,,235,,,,,,,LAT/LON: Katalog Lednikow USSR
+385,91,Irbistu,WGI,SU5A15106030,49.76593,88.10118,1978-01-01,1997-12-31,2.994,,55,,147,,,,,,,NAME: Also known as 30 | LAT/LON: Katalog Lednikow USSR
+386,91,Karakabak,WGI,SU5A15106152,50.13535,87.49106,1978-01-01,1997-12-31,3.02,,36,,125,,,,,,,LAT/LON: Katalog Lednikow USSR
+387,91,55,WGI,SU5A15106055,49.74108,87.86842,1978-01-01,1997-12-31,3.61,,58,,122,,,,,,,LAT/LON: Katalog Lednikow USSR
+388,91,56,WGI,SU5A15106056,49.74491,87.8242,1978-01-01,1997-12-31,3.756,,44,,134,,,,,,,LAT/LON: Katalog Lednikow USSR
+389,91,Leviy Mukhorojuk,WGI,SU5A15106108,49.90387,87.71863,1978-01-01,1997-12-31,4.497,,53,,130,,,,,,,LAT/LON: Katalog Lednikow USSR
+390,91,Sofiyskiy Vostochniy,WGI,SU5A15106076,49.77137,87.76896,1978-01-01,1997-12-31,5.13,,65,,140,,,,,,,LAT/LON: Katalog Lednikow USSR
+391,91,Praviy Aktru,WGI,SU5A15106127,50.06,87.717,1978-01-01,1997-12-31,5.15,,56,,194,,,,,,,LAT/LON: Katalog Lednikow USSR
+392,91,Praviy Maashei,WGI,SU5A15106144,50.067,87.667,1978-01-01,1997-12-31,5.468,,44,,148,,,,,,,LAT/LON: Katalog Lednikow USSR
+393,91,Bolshoi Taldurinskii,WGI,SU5A15106093,49.81336,87.68121,1978-01-01,1997-12-31,5.837,,58,,118,,,,,,,LAT/LON: Katalog Lednikow USSR
+394,91,Leviy Aktru,WGI,SU5A15106128,50.08008,87.69025,1978-01-01,1997-12-31,5.95,,90,,185,,,,,,,LAT/LON: Katalog Lednikow USSR
+395,91,Leviy Maashei,WGI,SU5A15106145,50.083,87.55,1978-01-01,1997-12-31,6.928,,43,,156,,,,,,,LAT/LON: Katalog Lednikow USSR
+396,91,Udachny,WGI,SU5A15106070,49.767,87.833,1978-01-01,1997-12-31,7.05,,63,,150,,,,,,,LAT/LON: Katalog Lednikow USSR
+397,91,Jello,WGI,SU5A15106113,50.033,87.717,1978-01-01,1997-12-31,7.5,,68,,128,,,,,,,NAME: Also known as Dshelo | LAT/LON: Katalog Lednikow USSR
+398,91,Jadrintseva,WGI,SU5A15106051,49.73723,87.91225,1978-01-01,1997-12-31,7.601,,53,,130,,,,,,,LAT/LON: Katalog Lednikow USSR
+399,91,Sofiyskiy Lednik (central branch),,,49.7894,87.7418,1978-01-01,1997-12-31,11.72,,82,,185,,,,,,,LAT/LON: Google Earth
+400,91,175,WGI,SU5A15105175,49.83401,87.56123,1978-01-01,1997-12-31,0.52,,50,,88,,,,,,,LAT/LON: Katalog Lednikow USSR
+401,91,176,WGI,SU5A15105172,49.83672,87.61529,1978-01-01,1997-12-31,0.58,,42,,92,,,,,,,LAT/LON: Katalog Lednikow USSR
+402,91,189,WGI,SU5A15105189,49.8549,87.37535,1978-01-01,1997-12-31,0.62,,48,,80,,,,,,,LAT/LON: Katalog Lednikow USSR
+403,91,138,WGI,SU5A15105138,49.933,87.75,1978-01-01,1997-12-31,0.73,,44,,101,,,,,,,LAT/LON: Katalog Lednikow USSR
+404,91,174,WGI,SU5A15105174,49.82965,87.5709,1978-01-01,1997-12-31,0.74,,50,,97,,,,,,,LAT/LON: Katalog Lednikow USSR
+405,91,99,WGI,SU5A15106099,49.89119,87.69552,1978-01-01,1997-12-31,0.92,,45,,126,,,,,,,LAT/LON: Katalog Lednikow USSR
+406,91,171,WGI,SU5A15105171,49.84646,87.6241,1978-01-01,1997-12-31,0.94,,56,,118,,,,,,,LAT/LON: Katalog Lednikow USSR
+407,91,220,WGI,SU5A15105220,49.81257,87.59222,1978-01-01,1997-12-31,1.05,,53,,76,,,,,,,LAT/LON: Katalog Lednikow USSR
+408,91,Stupenchatiy,WGI,SU5A15105120,50.04272,87.50312,1978-01-01,1997-12-31,1.1,,69,,105,,,,,,,LAT/LON: Katalog Lednikow USSR
+409,91,223,WGI,SU5A15105223,49.78,87.70812,1978-01-01,1997-12-31,1.27,,62,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+410,91,221,WGI,SU5A15105221,49.81112,87.61263,1978-01-01,1997-12-31,1.35,,47,,100,,,,,,,LAT/LON: Katalog Lednikow USSR
+411,91,108,,,50.0324,87.4715,1978-01-01,1997-12-31,1.62,,77,,125,,,,,,,LAT/LON: Google Earth
+412,91,Maliy Taldurinskii,WGI,SU5A15106095,49.84461,87.65568,1978-01-01,1997-12-31,1.66,,49,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+413,91,177,WGI,SU5A15105177,49.81937,87.5235,1978-01-01,1997-12-31,1.76,,64,,109,,,,,,,Left hand side stream | LAT/LON: Katalog Lednikow USSR
+414,91,179,WGI,SU5A15105179,49.83409,87.49097,1978-01-01,1997-12-31,1.8,,63,,109,,,,,,,LAT/LON: Katalog Lednikow USSR
+415,91,190,WGI,SU5A15105190,49.85968,87.35454,1978-01-01,1997-12-31,1.89,,51,,113,,,,,,,LAT/LON: Katalog Lednikow USSR
+416,91,219,WGI,SU5A15105219,49.81873,87.57375,1978-01-01,1997-12-31,2.03,,55,,92,,,,,,,LAT/LON: Katalog Lednikow USSR
+417,91,Universitetskiy,WGI,SU5A15105122,50.06403,87.53226,1978-01-01,1997-12-31,2.06,,74,,109,,,,,,,LAT/LON: Katalog Lednikow USSR
+418,91,178,WGI,SU5A15105178,49.82599,87.50648,1978-01-01,1997-12-31,2.16,,57,,105,,,,,,,LAT/LON: Katalog Lednikow USSR
+419,91,177,WGI,SU5A15105177,49.81762,87.5544,1978-01-01,1997-12-31,2.23,,61,,134,,,,,,,Right hand side stream | LAT/LON: Katalog Lednikow USSR
+420,91,Dvoynoy,WGI,SU5A15105121,50.05558,87.50787,1978-01-01,1997-12-31,2.28,,69,,143,,,,,,,LAT/LON: Katalog Lednikow USSR
+421,91,173,WGI,SU5A15105173,49.82565,87.59413,1978-01-01,1997-12-31,3.8,,60,,109,,,,,,,LAT/LON: Katalog Lednikow USSR
+422,92,Haut Glacier d'Arolla,,,45.9659,7.5279,1989-01-01,1990-12-31,6.3,,,,180,,,,,,,
+423,93,Wahlenbergbreen,,,78.5843,13.8587,1984-05-01,1984-05-31,96.6,,,,325,,,,18,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+424,93,Borebreen,WGI,NO4W01490000,78.4417,13.9,1984-05-01,1984-05-31,120,,,,330,,,,22,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+425,93,Nansenbreen,WGI,NO4W01490001,78.3763,13.8982,1984-05-01,1984-05-31,47,,,,295,,,,16,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+426,93,Eidembreen,,,78.4075,13.2004,1984-05-01,1984-05-31,103,,,,400,,,,22,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+427,93,Austre Grønfjordbreen,,,77.916,14.3433,1984-05-01,1984-05-31,12.1,,,,170,,,,7,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+429,93,Fridtjovbreen,WGI,NO4W01370000,77.8449,14.4051,1984-05-01,1984-05-31,63,,,,320,,,,12,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+431,93,Finsterwalderbreen,WGI,NO4W01320002,77.483,15.25,1984-05-01,1984-05-31,38,,,,260,,,,13,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+433,93,Storbreen,WGI,NO4A000AD041,61.573395,8.131989,1984-05-01,1984-05-31,5.3,,,,220,,,,10,,,AREA: Andreassen et al. (2006). NVE Report.
+434,94,Storbreen,WGI,NO4A000AD041,61.573395,8.131989,1980-01-01,1980-12-31,5.3,,,,140,,,,7,,,AREA: Andreassen et al. (2006). NVE Report.
+435,93,Nathorstbreen,WGI,NO4W01320000,77.3337,16.4012,1984-05-01,1984-05-31,489,,,,380,,,,27,,,AREA: WGI (1961)
+437,93,Liestølbreen,WGI,NO4W01320014,77.4291,16.743,1984-05-01,1984-05-31,160,,,,100,,,,9,,,AREA: WGI (1961) | Measurements on tongue of glacier only
+438,93,Doktorbreen,WGI,NO4W01320015,77.5283,16.6787,1984-05-01,1984-05-31,292,,,,315,,,,21,,,AREA: WGI (1961)
+440,93,Paulabreen,WGI,NO4W01530011,77.7377,17.3074,1984-05-01,1984-05-31,3.3,,,,260,,,,12,,,AREA: WGI (1966)
+442,93,Hayesbreen,WGI,NO4W01120000,78.3844,18.512,1984-05-01,1984-05-31,195,,,,200,,,,25,,,AREA: WGI (1969)
+444,93,Von Postbreen,WGI,NO4W01440002,78.4176,17.7151,1984-05-01,1984-05-31,174,,,,260,,,,18,,,AREA: WGI (1971)
+446,93,Holtedahlfonna,,,78.9647,13.4969,1979-01-01,1979-12-31,,,,,585,,,,124,,,"Survey of 4 glaciers: Isachsenfonna, Kongsbreen, Kronebreen and Holtedahlfonna"
+448,93,Kongsvegen,WGI,NO4W01550010,78.8,12.98,1979-01-01,1979-12-31,140,,,,320,,,,29,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+450,94,Tunabreen,WGI,NO4W01440000,78.497,17.4324,1980-01-01,1980-12-31,77,,,,250,,,,33,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+451,93,Negribreen,WGI,NO4W01110000,78.5808,19.038,1979-01-01,1979-12-31,553,,,,400,,,,39,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+453,93,Penckbreen,WGI,NO4W01320005,77.4745,15.6411,1979-01-01,1979-12-31,83,,,,160,,,,12,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+455,93,Vestre Torellbreen,,,77.26945,14.82256,1979-01-01,1979-12-31,217,,,,430,,,,21,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+457,93,Austre Torellbreen,WGI,NO4W01250003,77.1958,15.2917,1979-01-01,1979-12-31,150,,,,380,,,,11,,,AREA: WGI (1960)
+458,93,Hansbreen,WGI,NO4W01240019,77.0629,15.6384,1979-01-01,1979-12-31,72,,,,330,,,,12,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+460,93,Werenskioldbreen,,,77.0746,15.3439,1979-01-01,1979-12-31,34,,,,320,,,,8,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+462,93,Vestfonna,,,79.9409,20.8027,1979-01-01,1979-12-31,2670,,,,400,,,,300,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+463,94,Vestfonna,,,79.9409,20.8027,1980-01-01,1980-12-31,2670,,,,300,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+464,93,Austfonna,,,79.7931,24.6645,1979-01-01,1979-12-31,8020,,,,556,,,,950,,,"AREA: Zhuravlev, A.B. (1981). MGI."
+466,95,Khuk Nuru Uul,,,48.6556,90.8471,2009-07-01,2009-07-31,,,68,,72,,7051,,,,,
+467,96,Bjørnbreen,,,77.3721,15.1641,,,34.9,,,,420,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+468,96,Wahlenbergbreen,,,78.5843,13.8587,,,96.6,,,,430,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+469,96,Comfortlessbreen,WGI,NO4W01540011,78.7649,12.1302,,,56.4,,,,350,,,,,,,AREA: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696)
+470,96,Cookbreen,WGI,NO4W01690001,79.2594,16.4557,,,18,,,,350,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+471,96,Monacobreen,WGI,NO4W01620000,79.3976,12.607,,,408,,,,315,,,,,,,AREA: WGI (1966)
+472,96,Manbreen,,,79.586,17.1475,,,,,,,320,,,,,,,
+473,96,Nordenskiöldbreen,WGI,NO4W01450000,78.7,17.183,,,130,,,,450,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI | NAME: North branch"
+474,96,Orsabreen,WGI,NO4W01470010,78.9703,14.2748,,,56,,,,430,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+475,96,Osbornebreen,WGI,NO4W01530000,78.6544,13.1263,,,118,,,,390,,,,,,,AREA: Bahr et al. 1997 (https://doi.org/10.1029/97JB01696)
+476,96,Polakkbreen,WGI,NO4W01450006,77.2737,16.1642,,,,,,,380,,,,,,,
+477,96,Sørbreen,WGI,NO4W01690000,79.4868,16.0988,,,106,,,,130,,,,,,,AREA: WGI (1961)
+478,96,Sefströmbreen,WGI,NO4W01470013,78.7471,13.9472,,,110,,,,300,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+479,96,Uversbreen,WGI,NO4W01540012,78.8121,12.3434,,,74,,,,380,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+480,96,Eidembreen,,,78.4075,13.2004,,,103,,,,380,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+481,96,Elnabreen,WGI,NO4W01640010,79.1614,14.1237,,,8.9,,,,230,,,,,,,"AREA: Zhuravlev, A.B. (1981). MGI"
+482,96,Samarinbreen,WGI,NO4W01240007,76.8863,16.3455,,,81,,,,230,,,,,,,AREA: WGI (1961)
+483,96,Olsokbreen,WGI,NO4W01230000,76.732,16.4766,,,136,,,,190,,,,,,,AREA: WGI (1961)
+484,96,Hornbreen,WGI,NO4W01240011,77.0642,16.6977,,,179,,,,200,,,,,,,AREA: WGI (1970)
+485,96,Hambergbreen,WGI,NO4W01210000,77.0306,17.0072,,,144,,,,400,,,,,,,AREA: WGI (1970)
+486,97,Schneeferner,WGI,DE4J144IS001,47.4139,10.972,2006-11-07,,0.307,18,17,2,52,2,448,11,2.2,spline,,
+487,97,Südlicher Schneeferner,WGI,DE4J144IS002,47.4,10.9736,2006-11-07,,0.084,22,5,2,17,2,277,7,1.4,spline,,
+488,98,Höllentalferner,WGI,DE4J144IS003,47.4231,10.9912,2010-09-17,,0.223,26,12,2,52,2,2530,6,2.45,inverse distance,,
+489,97,Blaueis,WGI,DE4J143SZ001,47.571,12.8666,2007-10-03,,0.106,33,4,2,13,2,145,4,1.2,spline,,
+490,97,Watzmanngletscher,WGI,DE4J143SZ002,47.5543,12.9282,2007-10-02,,0.101,22,6,2,16,2,106,7,1.5,spline,,
+491,99,Academy of Science Ice Cap,,,80.475,94.8967,1968-01-01,1968-12-31,,,332,,,,177,,,,,
+492,99,Albanov Ice Cap,,,79.8358,95.6753,1968-01-01,1968-12-31,,,230,,,,44,,,,,
+493,99,Rusanov Ice Cap,,,79.9192,96.7597,1968-01-01,1968-12-31,,,296,,,,33,,,,,
+494,99,Schmidt Ice Cap,,,81.1342,90.6253,1968-01-01,1968-12-31,,,163,,,,40,,,,,
+495,99,Ushakov Ice Cap,,,80.8864,79.4231,1968-01-01,1968-12-31,,,147,,,,70,,,,,
+496,99,Vavilov Ice Cap,,,79.345,94.9144,1968-01-01,1968-12-31,,,227,,,,10,,,,,
+497,100,Findelengletscher,WGI,CH4N01356003,45.9936,7.87051,2008-01-01,2012-12-31,13.07938,13,89,,226,,13555,,,,,
+498,101,Tellbreen,WGI,NO4W01420020,78.252,16.1646,2004-01-01,2010-12-31,2.8,,59,,,,,,124,,,
+500,102,Mount Baker,,,48.7773,-121.8132,2002-05-01,2002-05-31,35,,68,,107,,2394,,,,,AREA: Harper 1993 (https://doi.org/10.1080/00040851.1993.12003019)
+501,103,Carmelo Crater,,,48.77613,-121.81687,2009-01-01,2009-12-31,,,,,82,5,44,,,,,
+502,104,Sherman Crater,,,48.7697,-121.8168,2009-07-01,2009-07-31,,,,,71,,80,,,,,
+503,105,Colle Gnifetti,,,45.9299,7.8744,1981-01-01,1981-12-31,,,100,,140,,,,,,,
+504,106,Grubengletscher,,,46.1669,7.9841,1981-01-01,1981-12-31,2.5,,,,85,4,,,,,,
+505,107,Tuyuksu (central),FOG,817,43.05,77.08,,,3.2,,103,,132,,,,,,,
+506,107,Tuyuksu (central),FOG,817,43.05,77.08,,,3.3115,,72,,126,,,,,,,
+507,108,Glaciar Colonia,WGI,CL1L42300002,-47.2167,-73.1,2010-01-01,2010-12-31,27.1,,307,,624,,,,50,triangulation,,AREA: Surveyed area only
+508,108,Glaciar Nef,WGI,CL1L42400002,-47.0667,-73.25,2010-01-01,2010-12-31,27.3,,394,,799,,,,170,triangulation,,AREA: Surveyed area only
+510,109,Vestfonna,,,79.9409,20.8027,1983-01-01,2009-12-31,2402,,186,0,413,,,,880,kriging,other,"MEAN_THICKNESS_UNCERTAINTY: Rounded from 0.25 m. Assumes errors are independent and thus an overly optimistic estimate, according to Martín-Español et al. 2016 (https://doi.org/10.1017/jog.2016.95)."
+511,110,Mikkaglaciären,WGI,SE4B000FA046,67.414,17.7,1983-05-01,1983-05-31,7.1,7,,,170,5,,,,,,
+512,111,Glaciar Tyndall,,,-51.17,-73.33,2003-01-01,2003-12-31,5.5,,298,,617,,70,9,,mean,partial,FLAG/AREA: Investigated area only (Zapata Sur lobe)
+513,112,Glaciar Juncal Norte,,,-33.03,-70.1,2000-01-01,2000-12-31,7.6,,,,222,,,,,,,AREA: Pelliccotti et al. 2008 (https://doi.org/10.1002/hyp.7085)
+514,112,Glaciar Esmeralda,WGI,CL1M005G0016,-33.2333,-70.2167,2001-12-01,2001-12-31,4.82,,,,114,,,,,,,AREA: WGI (1955)
+515,112,Glaciar San Francisco,,,-33.753,-70.075,1998-01-01,1998-12-31,,,,,94,,,4,,,,
+516,112,Glaciar Tapado,,,-30.145,-69.928,1999-02-01,1999-02-28,3.6,,,,42,,,,,,,AREA: www.glaciologia.cl
+525,113,Pizolgletscher,WGI,CH4R0140D001,46.9595,9.3891,2009-01-01,2009-12-31,0.08,,17,,54,,,,,,,AREA: 2010
+528,114,Glaciar Tyndall,FOG,1013,-51.17,-73.33,2006-12-05,,307.6,,,,670,,,,40,,,AREA: Rivera and Casassa 2004 (https://doi.org/10.1657/1523-0430(2004)036[0379:IEAAFC]2.0.CO;2)
+529,115,Urumqi Glacier No. 1,WGI,CN5Y730C0029,43.111,86.81,,,1.94,,,,139,,541,,7.46,,,
+530,115,Urumqi Glacier No. 2,WGI,CN5Y730C0028,43.102,86.824,,,0.97,,,,98,,40,,0.76,,,
+531,115,Urumqi Glacier No. 3,WGI,CN5Y730C0027,43.093,86.845,,,0.64,,,,48,,36,,0.68,,,
+532,115,Urumqi Glacier No. 4,WGI,CN5Y730C0026,43.09,86.862,,,0.3,,,,44,,31,,0.41,,,
+533,115,Urumqi Glacier No. 6,WGI,CN5Y730C0030,43.138,86.82,,,0.42,,,,97,,71,,1.34,,,
+534,115,Muzart,WGI,CN5Y681D0024,42.28,81.03,,,137.7,,,,106,,13,,0.72,,,
+535,115,Tulasu,WGI,CN5X046K0050,42.377,80.759,,,9.05,,,,42,,7,,0.5,,,
+536,115,Qongterang,WGI,CN5Y674B0028,41.93,80.13,,,165.38,,,,117,,41,,2.86,,,
+537,115,Koxkar,WGI,CN5Y674A0005,41.805,80.107,,,83.6,,,,105,,62,,3.37,,,
+538,115,Haxilegen,WGI,CN5Y741C0048,43.742,84.465,,,6.07,,,,138,,53,,1.02,,,
+539,115,Haxilegen,WGI,CN5Y741C0051,43.731,84.391,,,1.48,,,,75,,25,,0.48,,,
+540,115,Haxilegen,WGI,CN5Y741C0053,43.738,84.374,,,1.8,,,,90,,57,,1.56,,,
+541,115,Haxilegen,WGI,CN5X043N0008,43.724,84.406,,,0.46,,,,73,,43,,0.81,,,
+542,115,Heigou,WGI,CN5Y813B0008,43.784,88.356,,,5.61,,,,192,,68,,2.79,,,
+543,115,Miaoergou,WGI,CN5Y822C0002,43.065,94.318,,,6.59,,,,105,,21,,0.41,,,
+544,115,Miaoergou,WGI,CN5Y822C0003,43.05149,94.30595,,,3.45,,,,75,,34,,1.65,,,
+545,115,Shiyang River,WGI,CN5Y416G0004,37.544,101.752,,,1.86,,,,89,,57,,1.7,,,
+546,115,Ningchang River,WGI,CN5Y416F0006,37.53,101.8,,,1.2,,,,79,,10,,0.4,,,
+548,115,Laohugou,WGI,CN5Y448D0012,39.43,96.55,,,21.9,,,,144,,191,,11.5,,,
+549,115,Dagongba,WGI,CN5K612D0044,29.584,101.869,,,20.2,,,,263,,18,,2.3,,,
+550,115,Xiaogongba,WGI,CN5K612D0043,29.595,101.848,,,4.64,,,,163,,12,,1,,,
+551,115,Hailuogou,WGI,CN5K612F0003,29.584,101.916,,,25.7,,,,218,,17,,1.7,,,
+552,115,Yanzigou,WGI,CN5K612F0013,29.627,101.865,,,32.2,,,,214,,7,,1,,,
+553,115,Chongce,WGI,CN5Z431C0001,35.317,81.099,,,163,,,,148,,1041,,5.4,,,
+554,116,Rhonegletscher,WGI,CH4N01343003,46.5833,8.387138,2007-07-29,,15.9,,,,,,8,,,,,All borehole sites are located in the terminus area of Rhonegletscher
+555,117,Glacier de Corbassière,WGI,CH4N01383003,45.98,7.3,2009-01-01,2009-12-31,18.3,,76,5,238,5,,,34,other,,INTERPOLATION_METHOD: Farinotti et al. 2009 (https://doi.org/10.3189/002214309788816759)
+556,117,Glacier du Giétro,WGI,CH4N01382014,46,7.38,2009-01-01,2009-12-31,15.7,,67,5,291,5,,,17,other,,INTERPOLATION_METHOD: Farinotti et al. 2009 (https://doi.org/10.3189/002214309788816759)
+557,118,Glacier du Brenay,WGI,CH4N01382019,45.958,7.40374,2009-01-01,2009-12-31,9,,43,5,212,5,,,8,other,,INTERPOLATION_METHOD: Farinotti et al. 2009 (https://doi.org/10.3189/002214309788816759)
+558,118,Glacier d'Otemma,WGI,CH4N01382027,45.950001,7.45,2009-01-01,2009-12-31,7,,43,5,144,5,,,15,other,,INTERPOLATION_METHOD: Farinotti et al. 2009 (https://doi.org/10.3189/002214309788816759)
+559,118,Glacier du Mont Durand,WGI,CH4N01382036,45.919998,7.33,2009-01-01,2009-12-31,5.5,,82,5,230,5,,,8,other,,INTERPOLATION_METHOD: Farinotti et al. 2009 (https://doi.org/10.3189/002214309788816759)
+1933,119,Gliederferner,WGI,IT4L00121313,46.9641,11.7307,2012-05-10,,1.798,,28,5,82,5,76,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1934,120,Langenferner,WGI,IT4L00112128,46.4693,10.6114,2010-05-18,,1.776,,46,5,137,5,78,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1935,121,Rieserferner (west),WGI,IT4L00123312,46.9069,12.0965,2011-05-05,,1.992,,40,5,83,5,45,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1936,122,Übeltalferner,WGI,IT4L00121108,46.96,11.18,2009-05-09,,6.386,,68,5,214,5,155,,,anudem,,AREA: South Tyrol glacier inventory 1997 adapted to Misure08 (CGI)
+1937,123,Weißbrunnferner,,,46.4833,10.7717,1995-01-01,1995-12-31,0.7,,,,60,5,21,,,anudem,,AREA: 1987 orthophotos
+1938,124,Hohenferner,WGI,IT4L00112122,46.45361,10.678635,2013-05-14,,1.314,,18,,44,,1100,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1939,125,Feuersteinferner,WGI,IT4L00121204,46.9687,11.2521,2013-06-08,,1.301,,11,,31,,1012,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1940,126,Grafferner,WGI,IT4L00113201,46.7633,10.8923,2013-06-12,,1.622,,19,,59,,908,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1941,125,Hangendenferner,WGI,IT4L00121110,46.966224,11.225919,2013-06-08,,0.914,,12,,47,,942,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1942,124,Laaserferner,WGI,IT4L00112302,46.5354,10.6572,2013-05-13,,3.376,,18,,63,,1014,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1943,126,Langtaufererferner,WGI,IT4L00112907,46.814576,10.737048,2013-06-13,,3.868,,15,,81,,1046,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1944,126,Matscherferner,WGI,IT4L00112506,46.7813,10.7203,2013-06-12,,2.563,,9,,33,,1020,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1945,124,Schranferner,WGI,IT4L00112120,46.46,10.7,2013-05-14,,0.891,,15,,43,,928,,,anudem,,AREA: South Tyrol glacier inventory 2006
+1946,127,Suldenferner (south),WGI,IT4L00112417,46.49,10.56,2013-06-11,,3.707,,15,,63,,968,,,anudem,,AREA: South Tyrol glacier inventory 2006. Only southern branch treated.
+1947,128,Alpeiner Ferner,AGI,3055,47.05,11.13,2000-01-01,2000-12-31,3.406,,51,10,163,12,44,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1948,128,Bachfallenferner,AGI,2012,47.0767,11.0783,2000-01-01,2000-12-31,2.084,,41,7,97,10,29,,,anudem,,AREA: Austrian Glacier Inventory II
+1949,128,Bockkogelferner (east),AGI,2018,47.0272,11.1118,2008-01-01,2008-12-31,0.635,,42,16,87,18,3,,,anudem,,AREA: Austrian Glacier Inventory II | NAME: Sometimes also BOCKKOGELKEES
+1950,128,Bockkogelferner (west),AGI,2019,47.023,11.102,2008-01-01,2008-12-31,0.522,,73,29,69,33,2,,,anudem,,AREA: Austrian Glacier Inventory II | NAME: Sometimes also BOCKKOGELKEES
+1951,128,Brandner Gletscher,AGI,1202,47.06,9.6983,2005-01-01,2005-12-31,1.651,,19,5,74,8,12,,,anudem,,AREA: Austrian Glacier Inventory II
+1952,128,Brunnenkogelferner,AGI,1401,46.9217,10.8667,2000-01-01,2000-12-31,1.524,,27,7,56,10,15,,,anudem,,AREA: Austrian Glacier Inventory II
+1953,128,Daunkogelferner,AGI,3036,46.9877,11.1052,1995-01-01,1995-12-31,1.376,,42,4,107,5,48,,,anudem,,AREA: Austrian Glacier Inventory II
+1954,128,Fernauferner,AGI,3034,46.982,11.1365,1999-01-01,1999-12-31,1.693,,37,5,178,6,98,,,anudem,,AREA: Austrian Glacier Inventory II
+1955,128,Gaisbergferner,AGI,2060,46.8238,11.0767,1999-01-01,1999-12-31,1.191,,34,2,99,4,33,,,anudem,,AREA: Austrian Glacier Inventory II
+1956,128,Gaiskarferner,AGI,2039,46.9733,11.1125,1995-01-01,1995-12-31,0.514,,39,6,108,8,28,,,anudem,,AREA: Austrian Glacier Inventory II
+1957,128,Tuxer Ferner,AGI,9110,47.0654,11.6636,1998-01-01,1998-12-31,3.818,,34,2,124,3,89,,,anudem,,AREA: Austrian Glacier Inventory II
+1958,128,Gepatschferner,AGI,7022,46.8458,10.7487,2001-01-01,2001-12-31,17.16,,94,5,221,7,371,,,anudem,,AREA: Austrian Glacier Inventory II
+1959,128,Grießkogelferner,AGI,2009,47.1043,11.0298,2008-01-01,2008-12-31,0.429,,20,6,55,12,1,,,anudem,,AREA: Austrian Glacier Inventory II
+1960,128,Grinnerferner,AGI,1306,47.1715,10.4793,1996-01-01,1996-12-31,0.069,,11,8,32,8,22,,,anudem,,AREA: Austrian Glacier Inventory II
+1961,128,Großer Riepenkees,AGI,9097,47.0533,11.675,1998-01-01,1998-12-31,0.989,,25,2,76,3,34,,,anudem,,AREA: Austrian Glacier Inventory II
+1962,128,Gurgler Ferner,AGI,2074,46.790188,10.981328,1998-01-01,1998-12-31,9.379,,59,15,201,16,100,,,anudem,,AREA: Austrian Glacier Inventory II
+1963,128,Hallstätter Gletscher,AGI,1100,47.482451,13.613189,2009-01-01,2009-12-31,3.041,,55,4,131,10,104,,,anudem,,AREA: Austrian Glacier Inventory II
+1964,129,Hintereisferner,AGI,2125,46.8,10.77,2001-01-01,2001-12-31,8.55,,67,7,242,13,145,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1965,128,Hochalmkees,AGI,2101,47.02,13.33,2001-01-01,2001-12-31,2.907,,53,6,155,8,130,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1966,128,Hochjochferner,AGI,2121,46.7758,10.8059,1997-01-01,1997-12-31,6.829,,36,6,100,6,105,,,anudem,,NAME: Includes all three parts of HOCHJOCHFERNER | AREA: Austrian Glacier Inventory II
+1967,128,Hornkees,AGI,9075,46.9968,11.818074,1999-01-01,1999-12-31,2.665,,28,2,111,2,85,,,anudem,,AREA: Austrian Glacier Inventory II
+1968,128,Jamtalferner,AGI,1301,46.857891,10.158311,2005-01-01,2005-12-31,3.712,,52,6,119,12,61,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1969,128,Karlesferner,AGI,1400,46.93,10.92,2001-01-01,2001-12-31,1.457,,26,3,70,7,23,,,anudem,,AREA: Austrian Glacier Inventory II
+1970,128,Kesselwandferner,AGI,2129,46.8383,10.7933,1995-01-01,1995-12-31,4.052,,79,11,155,11,213,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1971,128,Langtaler Ferner,AGI,2072,46.7933,11.0167,2005-01-01,2005-12-31,2.894,,56,3,147,12,69,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1972,128,Lüsener Ferner (Berglasferner),AGI,1002,47.0867,11.1283,2000-01-01,2000-12-31,3.105,,58,13,131,15,36,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II | NAME: Also LUESENER FERNER
+1973,128,Lüsener Ferner (Berglasferner),AGI,3060,47.075115,11.115334,2000-01-01,2000-12-31,0.395,,79,21,131,23,4,,,anudem,,AREA: Austrian Glacier Inventory II | NAME: Also LUESENER FERNER (BERGLAS)
+1974,128,Marzellferner,AGI,2110,46.779794,10.883272,2002-01-01,2002-12-31,4.885,,52,15,187,20,40,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1975,128,Mittelbergferner,AGI,1400,46.9189,10.897,1998-01-01,1998-12-31,9.916,,53,11,188,13,123,,,anudem,,AREA: Austrian Glacier Inventory II
+1977,128,Niederjochferner,AGI,2111,46.7687,10.87,2002-01-01,2002-12-31,2.204,,31,3,98,7,38,,,anudem,,AREA: Austrian Glacier Inventory II
+1978,128,Nillkees,AGI,6058,47.051419,12.410932,2006-01-01,2006-12-31,0.159,,22,6,42,13,25,,,anudem,,AREA: Austrian Glacier Inventory II
+1979,128,Obersulzbachkees,AGI,5129,47.1082,12.2919,2001-01-01,2001-12-31,11.01,,40,10,208,13,129,,,anudem,,AREA: Austrian Glacier Inventory II
+1980,128,Ochsentaler Gletscher,AGI,1200,46.855,10.105,2000-01-01,2000-12-31,2.523,,44,8,163,13,38,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1981,128,Ödenwinkelkees,AGI,5094,47.1095,12.6453,1998-01-01,1998-12-31,2.062,,50,6,167,6,99,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1982,128,Östlicher Wannetferner,AGI,7020,46.882036,10.785139,2010-01-01,2010-12-31,0.571,,28,1,85,13,11,,,anudem,,AREA: Austrian Glacier Inventory II
+1983,128,Pasterze Gletscher,AGI,4027,47.1,12.7,1998-01-01,1998-12-31,18.38,,82,23,311,6,178,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1984,128,Rainerkees,AGI,6053,47.093,12.357,2003-01-01,2003-12-31,3.511,,43,3,78,11,66,,,anudem,,AREA: Austrian Glacier Inventory II
+1985,128,Rettenbachferner,AGI,2150,46.93,10.93,2007-01-01,2007-12-31,1.604,,30,3,62,8,81,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1986,128,Rotmoosferner,AGI,2063,46.8192,11.0474,2006-01-01,2006-12-31,2.878,,32,5,104,8,43,,,anudem,,AREA: Austrian Glacier inventory II
+1987,128,Schalfferner,AGI,2107,46.78,10.93,2002-01-01,2002-12-31,7.656,,50,11,117,17,85,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1988,128,Schaufelferner,AGI,3035,46.98,11.12,1997-01-01,1997-12-31,1.419,,26,5,94,5,115,,,anudem,,AREA: Austrian Glacier inventory II
+1989,128,Schladminger Gletscher,AGI,1100,47.47,13.63,2007-01-01,2007-12-31,0.794,,45,9,131,13,68,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1990,128,Schlatenkees,AGI,6077,47.1122,12.3839,2001-01-01,2001-12-31,9.321,,58,20,197,22,58,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1991,128,Schmiedingerkees,AGI,5081,47.193452,12.685416,2003-01-01,2003-12-31,1.367,,19,2,70,7,56,,,anudem,,AREA: Austrian Glacier inventory II
+1992,129,Schwarzenbergferner,AGI,2017,47.0434,11.113,2008-01-01,2008-12-31,1.552,,40,15,107,22,3,,,anudem,,AREA: Austrian Glacier inventory II
+1993,128,Schwarzensteinkees,AGI,9073,47.009,11.8512,1999-01-01,1999-12-31,4.126,,32,4,94,4,67,,,anudem,,AREA: Austrian Glacier inventory II
+1994,128,Schwarzmilzferner,AGI,1800,47.297963,10.296913,2003-01-01,2003-12-31,0.087,,12,9,35,9,25,,,anudem,,AREA: Austrian Glacier inventory II
+1995,128,Sexegertenferner,AGI,1401,46.8929,10.7991,2010-01-01,2010-12-31,2.157,,35,9,93,18,15,,,anudem,,AREA: Austrian Glacier inventory II
+1996,128,Sonnblickkees,AGI,5097,47.135275,12.594354,1998-01-01,1998-12-31,1.474,,35,5,142,5,82,,,anudem,,AREA: Austrian Glacier inventory II
+1997,128,Sulzenauferner,AGI,3032,46.97392,11.152135,2003-01-01,2003-12-31,4.501,,49,16,151,20,30,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+1998,128,Sulztalferner,AGI,2022,47.000215,11.076637,2001-01-01,2001-12-31,3.986,,42,8,131,11,52,,,anudem,,AREA: Austrian Glacier inventory II
+1999,128,Taschachferner (west),AGI,1401,46.8956,10.8546,2003-01-01,2003-12-31,6.366,,62,13,153,17,80,,,anudem,,AREA: Austrian Glacier inventory II
+2000,128,Tiefenbachferner,AGI,2143,46.919188,10.930347,2007-01-01,2007-12-31,1.109,,42,6,82,13,74,,,anudem,,AREA: Austrian Glacier inventory II
+2001,129,Tisenjochferner,AGI,2111,46.780164,10.847209,1997-01-01,1997-12-31,0.24,,10,3,26,3,29,,,anudem,,"AREA: Austrian Glacier inventory II | NAME: In Austrian Glacier Inventory II labeled as Niederjochferner, former tributary"
+2002,128,Umbalkees,AGI,6040,47.0567,12.2417,2003-01-01,2003-12-31,4.729,,46,3,110,7,116,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2003,128,Untersulzbachkees,AGI,5123,47.13,12.35,2001-01-01,2001-12-31,3.723,,94,26,219,28,36,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2004,128,Vermuntgletscher,AGI,1200,46.85,10.13,2000-01-01,2000-12-31,1.843,,20,2,62,6,34,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2005,128,Viltragenkees,AGI,6078,47.12889,12.367558,2010-01-01,2010-12-31,2.128,,39,5,129,15,32,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2006,128,Vorderer Ölgrubenferner,AGI,1401,46.908456,10.782322,2010-01-01,2010-12-31,0.48,,28,2,67,14,8,,,anudem,,AREA: Austrian Glacier inventory II
+2007,128,Waxeggkees,AGI,9076,47,11.7917,2001-01-01,2001-12-31,3.346,,30,8,83,10,30,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2008,128,Weißseeferner,AGI,7023,46.854846,10.706503,1996-01-01,1996-12-31,2.697,,31,10,80,11,22,,,anudem,,AREA: Austrian Glacier inventory II
+2009,128,Windacher Ferner,AGI,2037,46.976226,11.105719,2005-01-01,2005-12-31,0.389,,27,4,74,8,25,,,anudem,,AREA: Austrian Glacier inventory II
+2010,128,Vernagtferner,AGI,2133,46.88,10.82,1999-01-01,1999-12-31,8.839,,42,13,134,18,56,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+2093,130,Glaciar Charquini Sur,RGI,RGI40-16.00532,-16.3023,-68.1064,2012-08-07,,0.3097,21,22,,48,10,695,,,,,
+2011,131,Glaciar La Conejeras,FOG,2721,4.80506,-75.3715,2014-01-25,,0.191,26,22,,53,10,352,,,,,
+2012,132,Glaciar Zongo,WGI,BO1D22173132,-16.266,-68.148,2012-08-09,,1.8841,21,65,,109,10,1036,,,,,
+2013,133,Blauschnee,,,47.25038,9.34301,2011-03-01,2011-03-31,0.0264,48,8,1,22,3,2877,,,,,
+2014,134,Vadret dal Corvatsch,,,46.418641,9.825164,2013-03-01,2013-03-31,0.2257,22,17,3,50,7,5361,,,,,
+2015,134,Gurschenfirn,,,46.6049,8.61212,2013-03-01,2013-03-31,0.13572,27,15,2,44,7,2073,,,,,
+2016,134,Vadret dal Murtèl,,,46.408281,9.825684,2013-03-01,2013-03-31,0.3015,15,23,4,48,7,2790,,,,,
+2017,135,Muttgletscher,,,46.550849,8.417236,2009-03-01,2009-03-31,0.36654,17,26,4,57,9,2316,,,,,
+2018,136,Glacier de Plan Névé,,,46.1666,6.93715,2013-10-03,,0.5825,15,19,3,54,8,1005,,,,,
+2019,133,Sardonagletscher,,,46.916205,9.255655,2011-03-01,2011-03-31,0.39062,20,13,2,29,4,4501,,,,,
+2020,134,Schwarzwasserfirn,,,46.5967,8.61109,2013-03-01,2013-03-31,0.05848,27,8,1,18,3,1361,,,,,
+2021,133,Glatschiu dil Segnas,,,46.910684,9.249232,2011-03-01,2011-03-31,0.37938,17,19,3,51,8,4501,,,,,
+2022,134,Glacier du Sex Rouge,,,46.327,7.21308,2012-03-01,2012-03-31,0.3017,15,29,4,58,9,3681,,,,,
+2023,134,Sankt Annafirn,,,46.600208,8.602228,2013-03-01,2013-03-31,0.2176,22,16,2,44,7,2818,,,,,
+2024,134,Glacier de Tortin,,,46.08483,7.309231,2013-03-01,2013-03-31,0.62967,16,25,4,57,9,6434,,,,,
+2025,137,Glacier de Tsanfleuron,,,46.3202,7.22536,2010-03-01,2010-03-31,3.2275,10,69,10,174,26,7817,,,,,
+2026,138,Glacier de Tsarmine,,,46.048207,7.517633,2015-03-01,2015-03-31,0.2605,30,15,2,36,5,308,,,,,
+2027,139,Glaciar del Potro,,,-28.382,-69.609,2013-08-27,,4.28,,67,,132,,542,,7,inverse distance,,Overlap with RGI3.2-polygon: 17.21762 | Point data have been thinned (mean) within a search distance of 10 m
+2028,139,Glaciar Tronquitos,,,-28.538,-69.731,2013-08-29,,2.37,,39,,91,,516,,7.9,inverse distance,,Overlap with RGI3.2-polygon: 17.21691 | Point data have been thinned (mean) within a search distance of 10 m
+2029,139,Glaciar Tapado,,,-30.145,-69.928,2013-08-30,,1.92,,28,,69,,836,,8.6,inverse distance,,Overlap with RGI3.2-polygon: 17.21166 | Point data have been thinned (mean) within a search distance of 10 m
+2030,139,Glaciar Juncal Norte,,,-33.03,-70.1,2013-11-20,,7.86,,59,,206,,1469,,23.4,inverse distance,,Overlap with RGI3.2-polygon: 17.20300 | Point data have been thinned (mean) within a search distance of 10 m
+2031,139,Glaciar Rio Blanco,,,-33.048,-70.147,2013-11-20,,13.27,,56,,185,,1871,,26.4,inverse distance,,"Overlap with RGI3.2-polygon: 17.20197,17.20192,17.20186,17.20156 | Point data have been thinned (mean) within a search distance of 10 m"
+2032,139,Tupungatito,,,-33.404,-69.823,2013-10-06,,7.31,,122,,300,,1685,,15.5,inverse distance,,Overlap with RGI3.2-polygon: 17.19862. Point data have been thinned (mean) within a search distance of 10 m.
+2033,139,Glaciar Marmolejo,,,-33.738,-69.915,2013-10-06,,8.03,,46,,146,,1544,,29.5,inverse distance,,Overlap with RGI3.2-polygon: 17.19698 | Point data have been thinned (mean) within a search distance of 10 m
+2034,139,Glaciar Tinguiririca 3,,,-34.782,-70.31,2013-10-17,,3.57,,34,,122,,,,13.3,inverse distance,,"Overlap with RGI3.2-polygon: 17.01872,17.01870,1701940"
+2035,139,Glaciar Tinguiririca 4,,,-34.787,-70.29,2013-10-17,,2.05,,31,,79,,,,10.4,inverse distance,,Overlap with RGI3.2-polygon: 17.01868
+2036,139,Glaciar Tinguiririca 1,,,-34.816,-70.328,2013-10-17,,4.23,,59,,190,,,,15.6,inverse distance,,Overlap with RGI3.2-polygon: 17.01936
+2037,139,Velluda,,,-37.47,-71.42,2013-10-16,,13.07,,39,,138,,,,37.5,inverse distance,,"Overlap with RGI3.2-polygon: 17.18534,17.18545,17.18547,17.18532"
+2038,139,Callaqui,,,-37.93,-71.44,2013-10-15,,5.65,,27,,113,,,,20.8,inverse distance,,"Overlap with RGI3.2-polygon: 17.18479,17.18476,17.18483,17.18486,17.18495,17.18489,17.18474"
+2039,139,Llaima,,,-38.705,-71.732,2013-10-15,,13.56,,16,,57,,,,19,inverse distance,,Overlap with RGI3.2-polygon: 17.18264 and others
+2040,139,Sollipulli,,,-38.979,-71.524,2013-10-14,,11.49,,324,,775,,,,18.1,inverse distance,,"Overlap with RGI3.2-polygon: 17.18163,17.18125"
+2041,139,Villarrica,,,-39.432,-71.919,2013-10-14,,25.42,,47,,118,,,,25.1,inverse distance,,"Overlap with RGI3.2-polygon: 17.18045,17.18015"
+2042,139,Mocho-Choshuenco,,,-39.937,-72.025,2013-10-12,,11.62,,84,,262,,,,21.1,inverse distance,,"Overlap with RGI3.2-polygon: 17.17884,17.17890,17.17891"
+2043,139,Osorno,,,-41.106,-72.497,2013-10-11,,5.26,,17,,94,,,,34.9,inverse distance,,"Overlap with RGI3.2-polygon: 17.12627,17.12629,17.12631,17.12633,17.12635"
+2044,139,Tronador,,,-41.162,-71.91,2013-10-11,,23.94,,51,,191,,,,23.8,inverse distance,,"Overlap with RGI3.2-polygon: 17.17812,17.17819,17.17822,17.17823,17.17815,17,17809,17.17807,17.17812"
+2045,140,Glaciar Esmeralda,,,-33.222,-70.207,2012-07-17,,5.48,,38,,151,,,,8.5,triangulation,,Overlap with RGI3.2-polygon: 17.19954
+2046,140,Glaciar La Paloma,,,-33.188,-70.267,2012-07-17,,1.28,,23,,83,,,,5.2,triangulation,,"Overlap with RGI3.2-polygon: 17.19976,17.19969"
+2047,140,Glaciar del Rincon,,,-33.18,-70.281,2012-07-17,,0.64,,16,,88,,,,2.2,triangulation,,"Overlap with RGI3.2-polygon: 17.19978,19983"
+2048,140,Cerro El Plomo,,,-33.246,-70.223,2012-07-17,,1,,20,,97,,,,3.9,triangulation,,Overlap with RGI3.2-polygon: 17.19943
+2049,140,Glaciar del Yeso,,,-33.528,-69.919,2012-07-16,,1.63,,55,,128,,,,5.2,triangulation,,Overlap with RGI3.2-polygon: 17.19805
+2050,140,Glaciar Bello,,,-33.526,-69.947,2012-07-16,,3.6,,42,,138,,,,7.8,triangulation,,Overlap with RGI3.2-polygon: 17.19805
+2051,140,Glaciar del Yeso 2,,,-33.524,-69.864,2012-07-16,,1.14,,35,,95,,,,2,triangulation,,Overlap with RGI3.2-polygon: 17.19799
+2052,140,Glaciar del Mesón Alto,,,-33.689,-70.044,2012-07-16,,1.37,,29,,116,,,,3.7,triangulation,,Overlap with RGI3.2-polygon: 17.19752
+2053,140,Glaciar San Francisco,,,-33.753,-70.075,2012-07-16,,0.93,,22,,90,,,,3.4,triangulation,,"Overlap with RGI3.2-polygon: 17.19693,17.19707"
+2054,141,Glaciar Cipreses Norte,,,-34.537,-70.353,2012-07-14,,13.76,,54,,205,,,,11.6,triangulation,,Overlap with RGI3.2-polygon: 17.01986
+2055,141,Glaciar Universidad,,,-34.681,-70.349,2012-07-14,,20.26,,52,,342,,,,15.7,triangulation,,Overlap with RGI3.2-polygon: 17.01986
+2057,142,Storbreen,FOG,302,61.573395,8.131989,2005-04-26,2006-05-09,5.36,14,90,20,233,15,132,,,anudem,,132
+2059,144,Hellstugubreen,FOG,300,61.555861,8.441361,2011-03-16,2011-03-17,2.9,13,70,15,182,15,12377,,,anudem,,
+2060,144,Vestre Memurubreen,FOG,1318,61.541544,8.454024,2011-03-16,2011-03-17,8.6,7,128,15,257,15,21228,,,anudem,,SLOPE/AREA: 20030809-inventory
+2061,145,Gråsubreen,FOG,299,61.656513,8.599633,2012-09-01,2012-09-30,2.1,12,60,15,137,15,5328,3,4.5,anudem,,
+2062,146,Langfjordjøkelen,FOG,290,70.128,21.735,2008-03-13,2008-05-21,3.2,13,67,15,211,15,15310,,,triangulation,,
+2063,147,Nordre Folgefonna,NVE,NFF,60.209,6.474,2011-05-02,2011-05-03,26.4,,105,20,357,,48679,,,anudem,,Thickness includes winter snow.
+2065,148,Søndre Folgefonna,NVE,SFF,60.055,6.381,2004-03-31,2004-04-01,164,,,,375,,3190,,,,,
+2066,149,Blåmannsisen,NVE,BLÅ,67.278,16.037,1990-01-01,2004-12-31,87.3,,160,,471,,,,,anudem,,
+2067,150,Rundvassbreen,NVE,941,67.278,16.037,2004-04-21,2004-04-22,11.1,5,208,,388,,5659,,,anudem,,"Measurements conducted mainly on Rundvassbreen, an outlet glacier of Blåmannsisen ice cap"
+2068,151,Hardangerjøkulen,NVE,HAJ,60.546,7.432,2010-05-07,2010-05-08,71.3,6,148,,386,,5180,,,anudem,,
+2069,152,Vestre Svartisen,NVE,SVV,66.67,13.88,2010-03-18,2010-03-19,219,,,,535,,11752,,,,,"Vestre Svartisen is an ice cap containing several outlet glaciers (Engabreen, Storglombreen,...)"
+2070,153,Engabreen,NVE,1094,66.657,13.853,1991-06-28,1992-04-24,36,6,,,,,979,,,,,Engabreen is part of Vestre Svartisen
+2071,154,Vestre Svartisen,NVE,SVV,66.67,13.88,1986-05-20,1986-06-11,219,,,,635,,4690,,,,,
+2072,155,Djankuat,WGI,SU4G08005062,43.1944,42.7612,2012-07-10,,2.448,,31,1,105,3,40793,21,7,anudem,other,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2073,156,Djankuat,WGI,SU4G08005062,43.1944,42.7612,2013-07-07,,2.448,,31,1,105,3,39652,23,9.5,anudem,other,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2074,157,Marukh,WGI,SU5T09104021,43.361887,41.419771,2011-08-25,,2.76,13,97,3,333,10,49144,28,14.3,anudem,other,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2075,158,Elfenbeinbreen,RGI,RGI50-07.00428,78.1851,18.2064,2014-04-05,2014-04-07,39.96,3,85,9,285,7,14624,,105,kriging,,"MEAN_SLOPE: Altitude range/glacier length | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid | INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 30 m grid size"
+2076,158,Sveigbreen,RGI,RGI40-07.00409,78.1071,17.6978,2014-04-05,2014-04-07,28.59,3,74,7,212,5,4241,,36,kriging,partial,"INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 100 m grid size | MEAN_SLOPE: Altitude range/glacier length | AREA: Less than RGI area because part in Hellefonna not surveyed | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid"
+2077,159,Brewster Glacier,,,-44.07,169.43,1997-01-01,1997-12-31,2.62,15,,,,,588,4,,,,AREA: Aerial photography for the NZMS260 mapping series flown in 3/1986 | LAT/LON: FoG 2015 | MEAN_SLOPE: Calculated from DEM by WGMS
+2078,160,North Glacier,,,60.911031,-139.150803,2011-01-01,2011-12-31,6.9,,,,,,7277,,,,,LAT/LON: Google Earth
+2079,161,South Glacier,,,60.817771,-139.124004,2011-01-01,2011-12-31,5.3,,,,,,9618,,,,,LAT/LON: Google Earth
+2080,162,Starbuck Glacier,,,-65.614439,-62.418465,2012-12-01,2012-12-31,258,,312,30,1020,,1315,41,90,,,LAT/LON: Google Earth
+2081,163,Starbuck Glacier,,,-65.614439,-62.418465,2011-10-14,,258,,,,,,103,,,,,
+2082,164,Tasman Glacier,,,-43.52,170.32,1971-09-01,1971-09-30,100.3,19,,,,,31,2,3,,,MEAN_SLOPE: Calculated from DEM by WGMS
+2083,165,Urumqi Glacier No. 1,,,43.11124,86.810015,2014-01-01,2014-12-31,1.59,20,44,,141,,1387,16,,kriging,,"LAT/LON: Google Earth, located on upper tongue of eastern branch | MEAN_SLOPE: Calculated from DEM by WGMS."
+2084,166,West Washmawapta Glacier,,,51.177,-116.33,2006-06-01,2006-08-31,1,16,70,7,185,13,199,21,,,,"Near the steeply-sloping marginal walls, where the ice is thin and the topography complex, errors increased to 13 +- 2 m (27 +- 8%) | MEAN_SLOPE: Calculated from DEM by WGMS"
+2085,167,Muz Taw,RGI,RGI32-10.00353,47.065194,85.563635,2013-01-01,2013-12-31,3.078,17,23,,122,,675,3,2.688,natural neighbor,,"MEAN_THICKNESS: Given for the entire glacier | Accuracy was reported as 1.18% | INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation)"
+2086,168,Sigonghe 4,FOG,838,43.8342,88.3261,2009-01-01,2009-12-31,2.8,20,28,,104,,624,5,2.940,natural neighbor,,"MEAN_THICKNESS: Entire glacier | INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation)"
+2087,169,Urumqi Glacier No. 1,FOG,853,43.11124,86.810015,2006-08-01,2006-08-31,1.69,20,46,,140,5,679,18,7.618,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier"
+2088,169,Urumqi Glacier No. 1 (east branch),FOG,1511,43.11124,86.810015,2006-08-01,2006-08-31,1.09,18,44,,140,5,423,9,4.485,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier"
+2089,169,Urumqi Glacier No. 1 (west branch),FOG,1512,43.118294,86.80358,2006-08-01,2006-08-31,0.6,23,49,,120,5,256,9,3.133,natural neighbor,,"INTERPOLATION_METHOD: Reconstruct thickness along flowline in area without survey, then interpolate with the method 'natural neighbor' (arctoolbox -- 3D analyst tools -- Raster Interpolation) | MEAN_THICKNESS: For the entire glacier"
+2090,170,Sary-Tor Glacier,WGI,SU5X14105356,41.825132,78.176022,2013-05-20,,2.39,16,51,,159,,11354,21,7,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2091,171,Tiefengletscher,,,46.618,8.432,2012-03-26,,2.2,,,,83,10,1064,11,8.6,,partial,MEAN_THICKNESS: Not given as steep part of glacier was not measured
+2092,172,Aqqutikitsoq,,,67.094,-53.213,2014-08-15,,2.85,12,50,,174,,3013,53,,triangulation,,NAME: Aqqutikitsoq is the name of a nearby mountain and is used as well in Marcer et al. 2017 (https://doi.org/10.1657/AAAR0016-049) in lack of a glacier name.
+2094,173,Athabasca Glacier,,,52.1908,-117.2553,2017-09-04,,,,,,,,316,7,,,,
+2095,174,Lötschengletscher,GLIMS,G007707E46420N,46.4154,7.7087,2018-07-26,,,,,,,,2697,3,0.14,,,
+2096,175,Shiyi,RGI,RGI60-13.31537,38.214,99.881,2010-10-01,2010-10-31,0.5368,24,16,,66,,295,6,1.16,inverse distance,,AREA: Obtained by in-situ survey by GPS in 2010
+2097,176,Haxilegen 51,RGI,RGI60-13.47247,43.731,84.391,2010-09-03,,1.24651,20,15,,72,,585,6,2.32,inverse distance,,
+2098,177,Heigou 8,RGI,RGI60-13.48211,43.784,88.356,2009-08-01,,6.078,25,58,,177,,907,5,4.31,inverse distance,partial,
+2099,178,Shenqi Peak,RGI,RGI60-13.43165,41.78,79.894,2008-08-01,2008-08-31,1.55417,10,29,,148,,824,9,4.77,kriging,partial,AREA/MEAN_SLOPE: Only for the surveyed tongue | NAME: Also named 'Qingbingtan Glacier No. 72'
+2100,179,Qiyi,RGI,RGI60-13.32330,39.237,97.755,1980-01-01,1980-12-31,2.96629,21,41,,121,,106,11,4.05,kriging,,
+2101,180,Qaanaaq Ice Cap,GLIMS,G290838E77522N,77.5223,-69.1616,2012-07-26,2012-07-29,,,114,,154,,41,,,,,
+2102,181,Qasigiannguit,,,64.16,-51.35,2014-05-20,,0.7034,,22,5,68,5,6485,17,,triangulation,,
+2103,182,Nunatarssuaq Ice Cap,,,76.8639,-67.5921,2017-08-15,,,,,,,,7240,,,,,MEAN_THICKNESS/MAX_THICKNESS: Not reported because not entire glacier surveyed
+2104,183,Ålfotbreen,NVE,ÅLB,61.75,5.67,2016-04-12,,10.6,9,65,,241,,38490,,,other,,"Aalfotbreen is the entire glacier complex, which includes the two mass balance glaciers Aalfotbreen and Hansebreen and a few other southern units, here called Aalfotbreen South. These are included as three separate surveys. | INTERPOLATION_METHOD: Inverse distance weighting (IDW) and triangulation (TRI)"
+2105,183,Ålfotbreen,FOG,317,61.75,5.64,2016-04-12,,4,10,57,,158,,641,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).
+2106,183,Hansebreen,FOG,322,61.75,5.67,2016-04-12,,2.6,9,85,,241,,446,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).
+2107,183,Ålfotbreen (south),NVE,2096,61.73,5.66,2016-04-12,,3.28,9,68,,163,,426,,,other,,INTERPOLATION_METHOD: Inverse Distance Weighting (IDW) and Triangulation (TRI).
+2108,184,Jostedalsbreen,NVE,JOB,61.644,6.915,1989-04-15,1989-04-17,474,,,,557,,3071,,,,,"Measurements on southern part of Jostedalsbreen, including Tunsbergdalsbreen, Austerdalsbreen and Bøyabreen"
+2109,185,Austre Dahlfonna,GLIMS,G014140E77907N,77.9072,14.1244,2010-04-15,,2.84,,81,,191,,3512,12,7.6,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2110,186,Baalsrudbreen,GLIMS,G014601E77917N,77.9152,14.601,2013-04-20,,2.61,,34,,108,,2731,20,22.5,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2111,187,Blekumbreen,GLIMS,G016068E78246N,78.24548,16.06438,2013-04-27,,2.1,13,32,,106,,4484,26,22.5,anudem,partial,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2112,188,Erdmannbreen,GLIMS,G014123E77878N,77.8756,14.1004,2012-04-20,,8.14,,91,,190,,4139,21,31.2,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2113,189,Fridtjovbreen,GLIMS,G014442E77835N,77.8358,14.4077,2012-04-20,,47.3,,106,,266,,23874,60,180,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2114,190,Gleditschfonna,GLIMS,G014692E77911N,77.9111,14.6871,2011-04-27,,2.26,,26,,64,,1784,13,16.9,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2115,191,Marstranderbreen,GLIMS,G014983E77927N,77.9266,14.9686,2013-04-17,,6.24,,29,,122,,5002,19,25.2,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2116,191,Passfjellbreen (east),GLIMS,G015001E78014N,77.9989,15.0305,2013-04-15,,5.46,,33,,87,,4479,20,26.2,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2117,191,Passfjellbreen (west),GLIMS,G014953E78012N,78.0137,14.9569,2013-04-15,,2.51,,37,,106,,2908,9,9.2,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2118,192,Tungebreen,GLIMS,G014961E77957N,77.9531,14.9648,2011-04-26,,2.91,,24,,87,,3304,16,12.5,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2119,193,Tuyuksu (central),GLIMS,G077080E43049N,43.043653,77.080587,2013-08-28,,2.61,20,47,2,103,2,8568,36,25,anudem,partial,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2120,188,Vestre Dahlfonna,GLIMS,G014055E77902N,77.8978,14.0176,2012-04-20,,6.23,,31,,103,,3472,24,25.7,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2121,185,Vestre Grønfjordbreen,GLIMS,G014257E77913N,77.9112,14.2318,2010-04-16,,17.6,,94,,214,,10305,28,54,anudem,,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2122,194,Grønfjordbreen,GLIMS,G014108E77952N,77.9445,14.1412,2013-04-24,,1.79,,11,,51,,2026,13,15.7,anudem,partial,MEAN_THICKNESS: Based on the interpolated entire glacier area
+2123,195,Aldegondabreen,RGI,RGI50-07.01079,77.9714,14.0691,1999-05-06,1999-05-08,6.737,6,65,7,191,25,2018,24,40,kriging,,"MEAN_SLOPE: Altitude range/glacier length | MEAN_THICKNESS/MAX_THICKNESS: Interpolated over entire grid | INTERPOLATION_METHOD: Anisotropic ordinary kriging, spherical variogram, 30 m grid size | MEAN_THICKNESS: Martín‑Español et al. (2013): Radio‑echo sounding and ice volume estimates of western Nordenskiöld Land glaciers, Svalbard (https://doi.org/10.3189/2013AoG64A109)."
+2124,196,Northern Ice Field,WGI,TZ3D500A3001,-3.056,37.353,2015-09-16,,0.52568,,23,1,54,1,208,,,other,,"INTERPOLATION_METHOD: Method described in Fischer 2009 (https://doi.org/10.3189/002214309788816740) | ELEVATION: Sirguey and Cullen (2014): A very high resolution DEM of Kilimanjaro via photogrammetry of GeoEye-1 images (KILISoSDEM2012). New Zealand Surveyor, 303, 19–25."
+2126,197,Allalingletscher,,,46.031644,7.914627,2013-02-09,,9.1713,,,,,,24148,,,,,
+2127,197,Glacier de l'A Neuve (north),,,45.949048,7.049574,2013-02-22,,0.8848,,,,,,184,,,,,
+2128,197,Glacier de l'A Neuve (south),,,45.93239,7.055223,2013-02-22,,1.9191,,,,,,1711,,,,,
+2129,198,Ghiacciaio del Basòdino,,,46.417797,8.482478,2006-01-01,2006-12-31,1.8419,,,,,,1048,,,,,
+2130,197,Glacier de Moiry,,,46.0763,7.59752,2012-03-22,,0.0814,,,,,,1404,,,,,
+2131,197,Glacier du Brenay,,,45.958,7.40374,2011-04-09,,7.1094,,,,,,10700,,,,,
+2132,197,Pointe de Bricola (southeast),,,46.058231,7.601693,2012-03-22,,0.4544,,,,,,476,,,,,
+2133,197,Brunegggletscher,,,46.135264,7.718936,2012-04-17,,5.525,,,,,,7032,,,,,
+2134,198,Claridenfirn,,,46.842751,8.903725,1992-01-01,1992-12-31,5.1294,,,,,,159,,,,,
+2135,197,Glacier de Corbassière,,,45.972318,7.290197,2011-03-31,,15.2163,,,,,,29735,,,,,
+2136,197,Glacier du Dolent,,,45.919298,7.05922,2013-02-22,,1.2663,,,,,,654,,,,,
+2137,197,"Feegletscher (north, Alphubel)",,,46.074942,7.878722,2013-02-09,,2.0831,,,,,,4476,,,,,
+2138,197,"Feegletscher (north, Dom)",,,46.091474,7.874627,2013-02-09,,1.4444,,,,,,3722,,,,,
+2139,197,"Feegletscher (north, Täschhorn)",,,46.081676,7.87972,2013-02-09,,3.3731,,,,,,1892,,,,,
+2140,197,Feegletscher (north),,,46.101678,7.880606,2013-02-09,,0.3498,,,,,,1830,,,,,
+2141,197,Feegletscher (south),,,46.067038,7.891453,2013-02-09,,7.3306,,,,,,8966,,,,,
+2142,197,Glacier de Ferpècle,,,46.014207,7.581962,2012-03-15,,9.0056,,,,,,5311,,,,,
+2143,197,Fieschergletscher,,,46.504072,8.125714,2011-03-21,,29.4806,,,,,,14350,,,,,
+2144,197,Findelengletscher,,,45.992604,7.865141,2008-02-26,,14.1969,,,,,,2375,,,,,
+2145,197,Fluchthorn (northeast),,,46.025866,7.917392,2008-02-28,,0.2659,,,,,,11459,,,,,
+2146,197,Gauligletscher,,,46.6173,8.15811,2012-03-26,,11.4,,,,,,737,,,,,
+2147,197,Glacier du Giétro,,,45.990837,7.388912,2011-04-09,,5.1681,,,,,,6885,,,,,
+2148,199,Gornergletscher,,,45.957624,7.799773,2004-01-01,2004-12-31,39.0331,,,,,,869,,,,,
+2149,197,Grenzgletscher,,,45.950657,7.812237,2008-02-25,,40.2356,,,,,,31018,,,,,
+2150,200,Griesgletscher,,,46.4388,8.333324,1999-04-23,,4.7894,,,,,,338,,,,,
+2151,197,Gwächtenhorn,,,46.6878,8.42038,2013-03-12,,0.2517,,,,,,520,,,,,
+2152,197,Hohlaubgletscher,,,46.054034,7.914654,2013-02-09,,2.105,,,,,,3279,,,,,
+2153,197,Inner Talgletscher,,,46.47378,7.858678,2012-05-14,,1.0195,,,,,,2851,,,,,
+2154,197,Üsser Talgletscher,,,46.470141,7.842544,2012-05-14,,1.4475,,,,,,7662,,,,,
+2155,197,Innre Baltschiedergletscher,,,46.406502,7.893244,2013-02-22,,1.6281,,,,,,4479,,,,,
+2156,197,Kanderfirn,,,46.474823,7.801225,2012-05-14,,12.2331,,,,,,9228,,,,,
+2157,197,Langgletscher,,,46.473203,7.936784,2012-05-14,,8.2694,,,,,,12333,,,,,
+2158,197,Tête de Milon (north),,,46.124915,7.685829,2012-04-17,,0.2792,,,,,,1624,,,,,
+2159,197,Minstigergletscher,,,46.514168,8.204208,2013-03-12,,2.2531,,,,,,6961,,,,,
+2160,197,Glacier de Moiry,,,46.079336,7.594749,2012-03-15,,4.8975,,,,,,15033,,,,,
+2161,197,Glacier du Mont Collon,,,45.975707,7.48769,2011-04-09,,5.435,,,,,,4031,,,,,
+2162,197,Glacier du Mont Durand,,,45.9244,7.32284,2011-04-09,,6.0512,,,,,,8692,,,,,
+2163,197,Monte Rosagletscher,,,45.954675,7.836756,2008-02-26,,1.3519,,,,,,1149,,,,,
+2164,197,Glacier du Mont Mine,,,46.013255,7.548973,2012-03-15,,9.905,,,,,,5176,,,,,
+2165,197,Oberaargletscher,,,46.532109,8.203875,2012-03-26,,4.1037,,,,,,6340,,,,,
+2166,197,Glacier d'Orny,,,45.9964,7.05226,2013-02-22,,1.2725,,,,,,3734,,,,,
+2167,197,Glacier d'Otemma,,,45.952958,7.452372,2011-04-09,,12.5925,,,,,,9536,,,,,
+2169,197,Glacier de Saleina,,,45.971711,7.045297,2013-02-22,,6.5406,,,,,,7099,,,,,
+2170,197,Schwarzberggletscher,,,46.011612,7.924833,2008-02-28,,5.1719,,,,,,11922,,,,,
+2171,201,Silvrettagletscher,,,46.851957,10.072005,2007-01-01,2007-12-31,2.7887,,,,,,275,,,,,
+2172,197,Uistre Stampbachgletscher,,,46.405006,7.854089,2013-02-22,,0.2372,,,,,,1738,,,,,
+2173,197,Steingletscher,,,46.701781,8.432695,2013-03-12,,5.6875,,,,,,9883,,,,,
+2174,197,Steinlimigletscher,,,46.700242,8.401258,2013-03-12,,1.5938,,,,,,2795,,,,,
+2175,197,Tellingletscher (northeast),,,46.455672,7.804026,2012-05-14,,1.0856,,,,,,6896,,,,,
+2176,197,Tellingletscher (southwest),,,46.447105,7.787765,2012-05-14,,0.772,,,,,,2483,,,,,
+2177,197,Tennbachgletscher,,,46.441147,7.776679,2012-05-14,,0.2342,,,,,,318,,,,,
+2178,197,Glacier du Trient,,,45.999966,7.027681,2013-02-22,,5.8231,,,,,,4081,,,,,
+2179,197,Triftgletscher,,,46.658732,8.368925,2008-07-23,,14.9056,,,,,,18299,,,,,
+2180,197,Glacier de Tsijiore Nouve,,,46.000472,7.450022,2011-04-09,,2.7287,,,,,,943,,,,,
+2181,197,Turtmanngletscher,,,46.133265,7.696813,2012-04-17,,5.1675,,,,,,9316,,,,,
+2182,197,Üsser Talgletscher,,,46.462494,7.824757,2012-05-14,,1.8675,,,,,,8794,,,,,
+2183,197,Üssre Baltschiedergletscher,,,46.398937,7.865459,2013-02-22,,3.8475,,,,,,12512,,,,,
+2185,197,Wendengletscher,,,46.761091,8.435988,2013-03-12,,1.6238,,,,,,5305,,,,,
+2186,202,Glacier de Zinal,,,46.06439,7.63249,2007-01-01,2007-12-31,13.4094,,,,,,391,12,,,,
+2187,197,Zmuttgletscher,,,45.99554,7.62932,2012-03-15,,13.7369,,,,,,14431,,,,,
+2188,203,Bråsvellbreen,RGI,RGI60-07.00025,79.4014,23.5121,1983-04-23,1983-04-28,1095.853,4,,,,,4992,,,,,
+2189,204,Bråsvellbreen,RGI,RGI60-07.00025,79.4014,23.5121,2008-05-01,,1095.853,4,,,,,25024,,,,,
+2190,203,Austfonna,RGI,RGI60-07.00026,79.3657,24.447,1983-04-23,1983-04-28,153.538,3,,,,,751,,,,,
+2191,203,Austfonna (basin 3),RGI,RGI60-07.00027,79.5931,24.5544,1983-04-23,1983-04-28,1226.367,9,,,,,4781,,,,,
+2192,204,Austfonna (basin 3),RGI,RGI60-07.00027,79.5931,24.5544,2008-04-27,,1226.367,9,,,,,61269,,,,,
+2193,203,Austfonna,RGI,RGI60-07.00028,79.6073,25.2752,1983-04-23,1983-04-28,249.109,3,,,,,1040,,,,,
+2194,204,Austfonna,RGI,RGI60-07.00028,79.6073,25.2752,2008-04-28,,249.109,3,,,,,15719,,,,,
+2195,203,Austfonna,RGI,RGI60-07.00029,79.7418,25.601,1983-04-23,1983-04-28,662.905,11,,,,,1482,,,,,
+2196,204,Austfonna,RGI,RGI60-07.00029,79.7418,25.601,2008-04-28,,662.905,11,,,,,5650,,,,,
+2197,203,Austfonna,RGI,RGI60-07.00030,79.8072,26.3482,1983-04-23,1983-04-28,175.992,9,,,,,800,,,,,
+2198,203,Austfonna,RGI,RGI60-07.00031,79.8722,26.6074,1983-04-23,1983-04-28,218.616,9,,,,,573,,,,,
+2199,203,,RGI,RGI60-07.00033,80.2055,20.0636,1983-04-23,1983-04-28,38.758,15,,,,,31,,,,,
+2200,203,,RGI,RGI60-07.00034,80.1519,20.1708,1983-04-23,1983-04-28,82.176,19,,,,,18,,,,,
+2201,203,Rijpbreen,RGI,RGI60-07.00035,80.0371,21.3418,1983-04-23,1983-04-28,224.739,7,,,,,235,,,,,
+2202,205,Rijpbreen,RGI,RGI60-07.00035,80.0371,21.3418,1986-05-01,1986-05-31,224.739,7,,,,,9,,,,,
+2203,206,Rijpbreen,RGI,RGI60-07.00035,80.0371,21.3418,2008-05-10,,224.739,7,,,,,103,,,,,
+2204,206,Rijpbreen,RGI,RGI60-07.00035,80.0371,21.3418,2009-05-08,,224.739,7,,,,,1259,,,,,
+2205,203,Sabinebreen,RGI,RGI60-07.00036,80.1855,20.5652,1983-04-23,1983-04-28,67.387,14,,,,,188,,,,,
+2206,203,Croftbreen,RGI,RGI60-07.00037,79.9838,21.8724,1983-04-23,1983-04-28,112.063,9,,,,,29,,,,,
+2207,205,Croftbreen,RGI,RGI60-07.00037,79.9838,21.8724,1986-05-01,1986-05-31,112.063,9,,,,,108,,,,,
+2208,206,,RGI,RGI60-07.00038,79.9525,19.4023,2008-05-06,,61.667,12,,,,,314,,,,,
+2209,203,,RGI,RGI60-07.00038,79.9525,19.4023,1983-04-23,1983-04-28,61.667,12,,,,,62,,,,,
+2210,205,,RGI,RGI60-07.00038,79.9525,19.4023,1986-05-01,1986-05-31,61.667,12,,,,,13,,,,,
+2211,203,,RGI,RGI60-07.00039,79.8907,19.0047,1983-04-23,1983-04-28,54.782,11,,,,,103,,,,,
+2212,203,Amenfonna,RGI,RGI60-07.00040,79.8836,21.8543,1983-04-23,1983-04-28,56.294,6,,,,,84,,,,,
+2213,205,Amenfonna,RGI,RGI60-07.00040,79.8836,21.8543,1986-05-01,1986-05-31,56.294,6,,,,,41,,,,,
+2214,203,Maudbreen,RGI,RGI60-07.00041,80.1199,20.9865,1983-04-23,1983-04-28,158.996,13,,,,,210,,,,,
+2215,206,Maudbreen,RGI,RGI60-07.00041,80.1199,20.9865,2008-05-10,,158.996,13,,,,,320,,,,,
+2216,206,Bodleybreen,RGI,RGI60-07.00042,79.8936,21.4968,2009-05-08,,109.841,8,,,,,424,,,,,
+2217,203,Bodleybreen,RGI,RGI60-07.00042,79.8936,21.4968,1983-04-23,1983-04-28,109.841,8,,,,,227,,,,,
+2218,205,Bodleybreen,RGI,RGI60-07.00042,79.8936,21.4968,1986-05-01,1986-05-31,109.841,8,,,,,62,,,,,
+2219,207,Eltonbreen,RGI,RGI60-07.00043,79.8517,21.1601,1986-05-01,1986-05-31,44.96,7,,,,,64,,,,,
+2220,203,,RGI,RGI60-07.00053,80.2552,20.0902,1983-04-23,1983-04-28,13.573,13,,,,,40,,,,,
+2221,203,Austfonna,RGI,RGI60-07.00060,79.9329,26.7924,1983-04-23,1983-04-28,79.912,6,,,,,270,,,,,
+2222,203,Worsleybreen,RGI,RGI60-07.00061,79.9971,26.7928,1983-04-23,1983-04-28,84.651,7,,,,,207,,,,,
+2223,203,Leighbreen,RGI,RGI60-07.00062,80.0132,26.0182,1983-04-23,1983-04-28,692.661,9,,,,,1048,,,,,
+2224,203,Mariebreen,RGI,RGI60-07.00064,79.4187,20.9617,1983-04-23,1983-04-28,69.091,9,,,,,37,,,,,
+2225,203,Rosenthalbreen,RGI,RGI60-07.00065,79.4264,21.3451,1983-04-23,1983-04-28,80.21,15,,,,,109,,,,,
+2226,203,Glitnefonna (northeast),RGI,RGI60-07.00068,79.5701,20.189,1983-04-23,1983-04-28,29.824,12,,,,,39,,,,,
+2227,203,Glintefonna,RGI,RGI60-07.00070,79.517,20.1362,1983-04-23,1983-04-28,58.493,9,,,,,35,,,,,
+2228,203,Storøyjøkulen,RGI,RGI60-07.00071,80.0822,27.9838,1983-04-23,1983-04-28,9.396,6,,,,,35,,,,,
+2229,203,Storøyjøkulen,RGI,RGI60-07.00072,80.0624,28.0889,1983-04-23,1983-04-28,8.985,5,,,,,39,,,,,
+2230,203,Ahlmannfonna,RGI,RGI60-07.00074,80.1407,22.6875,1983-04-23,1983-04-28,3.688,15,,,,,6,,,,,
+2231,203,Ahlmannfonna,RGI,RGI60-07.00075,80.122,22.5924,1983-04-23,1983-04-28,11.774,14,,,,,82,,,,,
+2232,203,Ahlmannfonna,RGI,RGI60-07.00076,80.1023,22.6792,1983-04-23,1983-04-28,8.565,18,,,,,27,,,,,
+2233,203,Ahlmannfonna,RGI,RGI60-07.00077,80.1215,22.7926,1983-04-23,1983-04-28,11.195,18,,,,,36,,,,,
+2234,207,Liestølbreen,RGI,RGI60-07.00094,77.4027,16.652,1986-05-01,1986-05-31,1.904,12,,,,,4,,,,,
+2235,207,Liestølbreen,RGI,RGI60-07.00098,77.4121,16.5696,1986-05-01,1986-05-31,2.217,13,,,,,9,,,,,
+2236,207,Liestølbreen,RGI,RGI60-07.00099,77.4231,16.5079,1986-05-01,1986-05-31,0.535,19,,,,,6,,,,,
+2237,208,Renardbreen,RGI,RGI60-07.00124,77.507,14.3476,2008-03-31,,30.609,11,,,,,7623,,,,,
+2238,208,Scottbreen,RGI,RGI60-07.00128,77.543,14.3616,2009-04-01,,4.71,12,,,,,4846,,,,,
+2239,207,St. Ol'gafjella,RGI,RGI60-07.00133,77.5829,17.7848,1986-05-01,1986-05-31,2.444,12,,,,,2,,,,,
+2240,209,Ariebreen,RGI,RGI60-07.00209,77.0272,15.4854,2007-04-17,,0.37,19,27,2,82,4,461,,6.4,kriging,,
+2241,210,Recherchebreen,RGI,RGI60-07.00228,77.4013,15.0015,2011-04-27,,136.418,7,,,,,25276,,,,,
+2242,211,Finsterwalderbreen,RGI,RGI60-07.00231,77.461,15.2378,1980-04-15,1980-05-15,34.04,12,,,,,46,,,,,
+2243,211,Sveitsarfonna,RGI,RGI60-07.00233,77.4205,15.467,1980-04-15,1980-05-15,29.934,11,,,,,10,,,,,
+2244,212,Storbreen,RGI,RGI60-07.00238,77.1644,16.2809,2013-04-20,,206.536,6,,,,,1,,,,,
+2245,211,Storbreen,RGI,RGI60-07.00238,77.1644,16.2809,1980-04-15,1980-05-15,206.536,6,,,,,4,,,,,
+2246,211,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,1980-04-15,1980-05-15,64.211,7,,,,,24,,,,,
+2247,213,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,1994-05-13,,64.211,7,,,,,1,,,,,
+2248,213,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,1994-04-21,,64.211,7,,,,,1,,,,,
+2249,213,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,1994-05-04,,64.211,7,,,,,1,,,,,
+2250,214,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,2008-04-01,,64.211,7,,,,,15761,,,,,
+2251,215,Hansbreen,RGI,RGI60-07.00240,77.0748,15.5799,2011-04-20,,64.211,7,,,,,1003,,,,,
+2252,211,Penckbreen,RGI,RGI60-07.00241,77.3959,15.6519,1980-04-15,1980-05-15,80.444,8,,,,,46,,,,,
+2253,214,Austre Torellbreen,RGI,RGI60-07.00242,77.2112,15.3894,2008-04-01,,141.099,8,,,,,35,,,,,
+2254,210,Austre Torellbreen,RGI,RGI60-07.00242,77.2112,15.3894,2011-04-09,,141.099,8,,,,,3464,,,,,
+2255,215,Austre Torellbreen,RGI,RGI60-07.00242,77.2112,15.3894,2011-04-20,,141.099,8,,,,,7457,,,,,
+2256,216,Paierlbreen,RGI,RGI60-07.00244,77.169,15.6961,1980-01-01,1980-12-31,99.268,9,,,,,1,,,,,
+2257,214,Paierlbreen,RGI,RGI60-07.00244,77.169,15.6961,2008-04-01,,99.268,9,,,,,1679,,,,,
+2258,217,Paierlbreen,RGI,RGI60-07.00244,77.169,15.6961,2011-04-20,,99.268,9,,,,,18045,,,,,
+2259,211,Werenskioldbreen,RGI,RGI60-07.00246,77.0799,15.394,1980-04-15,1980-05-15,26.722,10,,,,,69,,,,,
+2260,214,Werenskioldbreen,RGI,RGI60-07.00246,77.0799,15.394,2008-04-01,,26.722,10,,,,,21207,,,,,
+2261,211,Hyrnebreen,RGI,RGI60-07.00249,77.0452,16.2032,1980-04-15,1980-05-15,5.206,14,,,,,3,,,,,
+2262,207,Vallåkrabreen,RGI,RGI60-07.00266,77.8656,17.1687,1986-05-01,1986-05-31,21.899,12,,,,,117,,,,,
+2263,207,Kroppbreen,RGI,RGI60-07.00270,77.8936,17.3976,1986-05-01,1986-05-31,14.187,11,,,,,92,,,,,
+2264,207,Ragna-Mariebreen,RGI,RGI60-07.00273,77.7989,17.3778,1986-05-01,1986-05-31,10.367,12,,,,,82,,,,,
+2265,207,Edvardbreen,RGI,RGI60-07.00274,77.8807,17.5762,1986-05-01,1986-05-31,61.187,8,,,,,200,,,,,
+2266,207,Inglefieldbreen,RGI,RGI60-07.00275,77.8211,17.9552,1986-05-01,1986-05-31,75.12,8,,,,,335,,,,,
+2267,207,Arnesenbreen,RGI,RGI60-07.00276,77.8132,18.1269,1986-05-01,1986-05-31,24.44,10,,,,,116,,,,,
+2268,207,Beresnikovbreen,RGI,RGI60-07.00277,77.7959,18.2661,1986-05-01,1986-05-31,29.393,10,,,,,95,,,,,
+2269,207,Innifonna,RGI,RGI60-07.00279,77.6757,18.1129,1986-05-01,1986-05-31,23.872,10,,,,,62,,,,,
+2270,207,Skobreen,RGI,RGI60-07.00280,77.7126,17.2002,1986-05-01,1986-05-31,18.77,15,,,,,92,,,,,
+2271,207,Scheelebreen,RGI,RGI60-07.00283,77.6908,16.9641,1986-05-01,1986-05-31,46.903,11,,,,,158,,,,,
+2272,207,Kvalbreen,RGI,RGI60-07.00293,77.5731,18.0567,1986-05-01,1986-05-31,32.71,9,,,,,362,,,,,
+2273,207,Indrebøbreen,RGI,RGI60-07.00294,77.6188,17.9309,1986-05-01,1986-05-31,37.556,9,,,,,199,,,,,
+2274,207,Svalbreen,RGI,RGI60-07.00295,77.6648,16.5258,1986-05-01,1986-05-31,51.168,9,,,,,136,,,,,
+2275,211,Strongbreen,RGI,RGI60-07.00296,77.6549,17.5894,1980-04-15,1980-05-15,118.221,8,,,,,1,,,,,
+2276,218,Strongbreen,RGI,RGI60-07.00296,77.6549,17.5894,1986-05-01,1986-05-31,118.221,8,,,,,582,,,,,
+2277,207,Steenstrupbreen,RGI,RGI60-07.00297,77.6056,16.3035,1986-05-01,1986-05-31,18.373,13,,,,,38,,,,,
+2278,211,Vestre Torellbreen,RGI,RGI60-07.00301,77.2857,14.9949,1980-04-15,1980-05-15,312.535,5,,,,,110,,,,,
+2279,210,Vestre Torellbreen,RGI,RGI60-07.00301,77.2857,14.9949,2011-04-09,,312.535,5,,,,,29155,,,,,
+2280,215,Vestre Torellbreen,RGI,RGI60-07.00301,77.2857,14.9949,2011-04-20,,312.535,5,,,,,872,,,,,
+2281,210,Vestre Torellbreen,RGI,RGI60-07.00301,77.2857,14.9949,2011-04-27,,312.535,5,,,,,6700,,,,,
+2282,203,Eidembreen,RGI,RGI60-07.00302,78.4202,13.2765,1983-04-23,1983-04-28,144.255,8,,,,,72,,,,,
+2283,207,Nordsysselbreen,RGI,RGI60-07.00313,77.8541,17.791,1986-05-01,1986-05-31,64.258,8,,,,,308,,,,,
+2284,207,Thomsonbreen,RGI,RGI60-07.00315,77.6068,18.1712,1986-05-01,1986-05-31,29.776,9,,,,,167,,,,,
+2285,207,Karibreen,RGI,RGI60-07.00316,77.6132,17.7808,1986-05-01,1986-05-31,12.498,10,,,,,51,,,,,
+2286,207,Spælbreen,RGI,RGI60-07.00318,77.4216,17.2531,1986-05-01,1986-05-31,30.809,9,,,,,136,,,,,
+2287,207,Jemelianovbreen,RGI,RGI60-07.00319,77.3519,17.1161,1986-05-01,1986-05-31,53.57,9,,,,,34,,,,,
+2288,211,Nathorstbreen,RGI,RGI60-07.00322,77.2954,16.6689,1980-04-15,1980-05-15,179.887,7,,,,,46,,,,,
+2289,211,Hornbreen,RGI,RGI60-07.00324,77.1406,16.7887,1980-04-15,1980-05-15,173.408,8,,,,,110,,,,,
+2290,212,Hornbreen,RGI,RGI60-07.00324,77.1406,16.7887,2013-04-20,,173.408,8,,,,,2,,,,,
+2291,212,Hornbreen,RGI,RGI60-07.00324,77.1406,16.7887,2014-04-23,,173.408,8,,,,,2,,,,,
+2292,219,Varpbreen,RGI,RGI60-07.00339,77.9243,16.6198,2001-04-01,2001-04-30,1.201,12,,,,,35,,,,,
+2293,219,Varpbreen,RGI,RGI60-07.00339,77.9243,16.6198,2002-04-01,2002-04-30,1.201,12,,,,,2552,,,,,
+2294,220,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,1989-04-01,1989-05-31,15.126,11,,,,,142,,,,,
+2295,219,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,2000-04-01,2000-04-30,15.126,11,,,,,93,,,,,
+2296,219,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,2001-04-01,2001-04-30,15.126,11,,,,,393,,,,,
+2297,221,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,2005-03-01,2005-06-30,15.126,11,,,,,530,,,,,
+2298,222,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,2007-04-11,,15.126,11,,,,,4686,,,,,
+2299,223,Marthabreen,RGI,RGI60-07.00341,78.0016,16.7472,2009-04-01,2009-04-30,15.126,11,,,,,3776,,,,,
+2300,220,Höganäsbreen,RGI,RGI60-07.00342,77.946,16.6945,1989-04-01,1989-05-31,10.959,12,,,,,128,,,,,
+2301,219,Höganäsbreen,RGI,RGI60-07.00342,77.946,16.6945,2000-04-01,2000-04-30,10.959,12,,,,,5,,,,,
+2302,224,Höganäsbreen,RGI,RGI60-07.00342,77.946,16.6945,2001-09-01,2001-09-30,10.959,12,,,,,18693,,,,,
+2303,219,Höganäsbreen,RGI,RGI60-07.00342,77.946,16.6945,2001-04-01,2001-04-30,10.959,12,,,,,2662,,,,,
+2304,219,Höganäsbreen,RGI,RGI60-07.00342,77.946,16.6945,2002-04-01,2002-04-30,10.959,12,,,,,5858,,,,,
+2305,220,Helsingborgbreen,RGI,RGI60-07.00343,77.9666,16.8216,1989-04-01,1989-05-31,5.903,13,,,,,23,,,,,
+2306,219,Helsingborgbreen,RGI,RGI60-07.00343,77.9666,16.8216,2000-04-01,2000-04-30,5.903,13,,,,,83,,,,,
+2307,211,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,1980-04-15,1980-05-15,36.087,10,,,,,68,,,,,
+2308,220,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,1989-04-01,1989-05-31,36.087,10,,,,,2279,,,,,
+2309,219,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,2000-04-01,2000-04-30,36.087,10,,,,,5422,,,,,
+2310,219,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,2001-04-01,2001-04-30,36.087,10,,,,,14045,,,,,
+2311,219,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,2002-04-01,2002-04-30,36.087,10,,,,,4819,,,,,
+2312,221,Slakbreen,RGI,RGI60-07.00344,77.9712,16.5538,2005-03-01,2005-06-30,36.087,10,,,,,3736,,,,,
+2313,207,Andrinebreen (south),RGI,RGI60-07.00357,77.9349,17.9534,1986-05-01,1986-05-31,1.579,15,,,,,9,,,,,
+2314,207,Andrinebreen,RGI,RGI60-07.00366,77.9669,18.0174,1986-05-01,1986-05-31,1.579,12,,,,,85,,,,,
+2315,207,Nuddbreen,RGI,RGI60-07.00422,77.5554,17.3123,1986-05-01,1986-05-31,76.765,8,,,,,277,,,,,
+2316,203,Sexebreen,RGI,RGI60-07.00423,80.093,25.5852,1983-04-23,1983-04-28,101.317,9,,,,,398,,,,,
+2317,203,Nilsenbreen,RGI,RGI60-07.00424,80.0302,25.1671,1983-04-23,1983-04-28,241.29,12,,,,,607,,,,,
+2318,203,Schweigaardbreen,RGI,RGI60-07.00425,80.0376,24.7316,1983-04-23,1983-04-28,472.613,12,,,,,1339,,,,,
+2319,204,Schweigaardbreen,RGI,RGI60-07.00425,80.0376,24.7316,2008-04-26,,472.613,12,,,,,1131,,,,,
+2320,203,Nansenbreen,RGI,RGI60-07.00463,78.3777,13.869,1983-04-23,1983-04-28,38.089,10,,,,,44,,,,,
+2321,203,Borebreen,RGI,RGI60-07.00464,78.464,13.7965,1983-04-23,1983-04-28,110.25,8,,,,,92,,,,,
+2322,203,Wahlenbergbreen,RGI,RGI60-07.00465,78.5452,13.8953,1983-04-23,1983-04-28,119.079,8,,,,,57,,,,,
+2323,225,Sveabreen,RGI,RGI60-07.00474,78.6511,13.8202,1988-05-20,,165.161,8,,,,,49,,,,,
+2324,211,Midtre Lovénbreen,RGI,RGI60-07.00493,78.8779,12.0311,1980-04-15,1980-05-15,5.205,14,,,,,32,,,,,
+2325,226,Midtre Lovénbreen,RGI,RGI60-07.00493,78.8779,12.0311,1988-01-01,1988-12-31,5.205,14,,,,,1,,,,,
+2326,227,Midtre Lovénbreen,RGI,RGI60-07.00493,78.8779,12.0311,1990-01-01,1990-12-31,5.205,14,,,,,366,,,,,
+2327,228,Midtre Lovénbreen,RGI,RGI60-07.00493,78.8779,12.0311,2006-04-15,2006-05-15,5.205,14,,,,,13546,,,,,
+2328,229,Austre Lovenbreen,RGI,RGI60-07.00496,78.871,12.1614,2010-04-24,,4.6,14,76,9,,,67542,120,,kriging,,
+2329,230,Pedersenbreen,RGI,RGI60-07.00497,78.857,12.2861,2010-04-01,2010-04-30,6.249,15,,,,,1484,,,,,
+2330,231,Aavatsmarkbreen,RGI,RGI60-07.00501,78.6987,12.2923,2015-05-08,,73.265,8,,,,,150,,,,,
+2331,211,Austre Brøggerbreen,RGI,RGI60-07.00504,78.8876,11.8309,1980-04-15,1980-05-15,9.811,12,,,,,43,,,,,
+2332,226,Austre Brøggerbreen,RGI,RGI60-07.00504,78.8876,11.8309,1988-01-01,1988-12-31,9.811,12,,,,,1,,,,,
+2333,226,Austre Brøggerbreen,RGI,RGI60-07.00504,78.8876,11.8309,1988-01-01,1988-12-31,9.811,12,,,,,1,,,,,
+2334,227,Austre Brøggerbreen,RGI,RGI60-07.00504,78.8876,11.8309,1990-01-01,1990-12-31,9.811,12,,,,,200,,,,,
+2335,211,Uversbreen,RGI,RGI60-07.00506,78.7796,12.4999,1980-04-15,1980-05-15,66.139,7,,,,,3,,,,,
+2336,203,Uversbreen,RGI,RGI60-07.00506,78.7796,12.4999,1983-04-23,1983-04-28,66.139,7,,,,,86,,,,,
+2337,225,Uversbreen,RGI,RGI60-07.00506,78.7796,12.4999,1988-05-20,,66.139,7,,,,,189,,,,,
+2338,227,Uversbreen,RGI,RGI60-07.00506,78.7796,12.4999,1990-01-01,1990-12-31,66.139,7,,,,,84,,,,,
+2339,211,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,1980-04-15,1980-05-15,64.544,8,,,,,36,,,,,
+2340,225,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,1988-05-20,,64.544,8,,,,,335,,,,,
+2341,227,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,1990-01-01,1990-12-31,64.544,8,,,,,121,,,,,
+2342,232,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,1995-01-01,1995-12-31,64.544,8,,,,,509,,,,,
+2343,233,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,2009-05-05,2016-04-29,64.544,8,,,,,12,,,,,
+2344,233,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,2009-05-05,2016-04-29,64.544,8,,,,,58,,,,,
+2345,234,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,2014-05-01,,64.544,8,,,,,59,,,,,
+2346,234,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,2015-05-04,,64.544,8,,,,,206,,,,,
+2347,233,Sidevegen,RGI,RGI60-07.00514,78.776,12.8427,2009-05-05,2016-04-29,64.544,8,,,,,20261,,,,,
+2348,234,Conwaybreen,RGI,RGI60-07.00524,79.0254,12.7061,2015-05-04,,53.988,11,,,,,2423,,,,,
+2349,234,Conwaybreen,RGI,RGI60-07.00524,79.0254,12.7061,2016-04-29,,53.988,11,,,,,3941,,,,,
+2350,203,Sefströmbreen,RGI,RGI60-07.00529,78.7481,13.8911,1983-04-23,1983-04-28,132.743,8,,,,,95,,,,,
+2351,203,Holmströmbreen,RGI,RGI60-07.00531,78.8592,13.7766,1983-04-23,1983-04-28,111.779,8,,,,,131,,,,,
+2352,233,Holmströmbreen,RGI,RGI60-07.00531,78.8592,13.7766,2009-05-05,2016-04-29,111.779,8,,,,,69,,,,,
+2353,233,Orsabreen,RGI,RGI60-07.00533,78.9787,14.1518,2009-05-05,2016-04-29,134.647,9,,,,,28,,,,,
+2354,234,Feiringbreen,RGI,RGI60-07.00549,79.0274,12.4834,2016-04-29,,7.392,14,,,,,3300,,,,,
+2355,203,Duvebreen,RGI,RGI60-07.00551,79.998,24.1269,1983-04-23,1983-04-28,356.465,12,,,,,805,,,,,
+2356,235,Duvebreen,RGI,RGI60-07.00551,79.998,24.1269,1987-01-01,1987-12-31,356.465,12,,,,,1,,,,,
+2357,204,Duvebreen,RGI,RGI60-07.00551,79.998,24.1269,2008-04-26,,356.465,12,,,,,47233,,,,,
+2358,203,Austfonna,RGI,RGI60-07.00552,79.9639,23.5771,1983-04-23,1983-04-28,328.261,12,,,,,813,,,,,
+2359,204,Austfonna,RGI,RGI60-07.00552,79.9639,23.5771,2008-04-26,,328.261,12,,,,,18370,,,,,
+2360,234,Blomstrandbreen,RGI,RGI60-07.00558,79.0733,12.3706,2016-04-29,,88.684,10,,,,,7364,,,,,
+2361,236,Nordenskiöldbreen,RGI,RGI60-07.00570,78.7023,17.2916,2010-03-18,,206.313,6,,,,,6909,,,,,
+2362,203,Austfonna,RGI,RGI60-07.00607,79.8951,23.0898,1983-04-23,1983-04-28,111.673,13,,,,,241,,,,,
+2363,204,Austfonna,RGI,RGI60-07.00607,79.8951,23.0898,2008-04-30,,111.673,13,,,,,5695,,,,,
+2364,203,Winsnesbreen,RGI,RGI60-07.00608,79.8068,22.9747,1983-04-23,1983-04-28,242.701,9,,,,,532,,,,,
+2365,204,Winsnesbreen,RGI,RGI60-07.00608,79.8068,22.9747,2008-04-27,,242.701,9,,,,,14385,,,,,
+2366,203,Etonbreen,RGI,RGI60-07.00681,79.6875,22.8423,1983-04-23,1983-04-28,641.022,10,,,,,1881,,,,,
+2367,204,Etonbreen,RGI,RGI60-07.00681,79.6875,22.8423,2008-04-27,,641.022,10,,,,,14566,,,,,
+2368,203,Palanderisen (2),RGI,RGI60-07.00682,79.6299,21.8549,1983-04-23,1983-04-28,129.146,9,,,,,90,,,,,
+2369,203,Palanderisen,RGI,RGI60-07.00683,79.6572,21.2803,1983-04-23,1983-04-28,57.577,5,,,,,74,,,,,
+2370,203,Palanderisen,RGI,RGI60-07.00727,79.5626,21.4304,1983-04-23,1983-04-28,190.814,9,,,,,588,,,,,
+2371,203,Palanderisen,RGI,RGI60-07.00728,79.5197,22.28,1983-04-23,1983-04-28,291.426,10,,,,,603,,,,,
+2372,204,Palanderisen,RGI,RGI60-07.00728,79.5197,22.28,2008-05-03,,291.426,10,,,,,879,,,,,
+2373,203,Idabreen,RGI,RGI60-07.00775,79.5999,12.2077,1983-04-23,1983-04-28,12.934,12,,,,,59,,,,,
+2374,203,Raudfjordbreen,RGI,RGI60-07.00794,79.5612,12.0101,1983-04-23,1983-04-28,55.632,11,,,,,29,,,,,
+2375,203,Abrahamsenbreen,RGI,RGI60-07.00813,79.0867,14.3275,1983-04-23,1983-04-28,119.248,10,,,,,174,,,,,
+2376,203,Johanbreen,RGI,RGI60-07.00816,79.1444,13.9286,1983-04-23,1983-04-28,9.92,15,,,,,68,,,,,
+2377,203,Ringhornbreen,RGI,RGI60-07.00845,79.3273,16.6347,1983-04-23,1983-04-28,77.586,12,,,,,6,,,,,
+2378,237,Ringhornbreen,RGI,RGI60-07.00845,79.3273,16.6347,1987-05-01,1987-06-30,77.586,12,,,,,1,,,,,
+2379,203,Midtbreen,RGI,RGI60-07.00849,79.5286,16.4364,1983-04-23,1983-04-28,84.302,12,,,,,25,,,,,
+2380,203,Valhallfonna (east),RGI,RGI60-07.00854,79.7351,17.543,1983-04-23,1983-04-28,288.546,5,,,,,120,,,,,
+2381,203,Gullfaksebreen,RGI,RGI60-07.00857,79.5692,16.9614,1983-04-23,1983-04-28,127.358,8,,,,,93,,,,,
+2382,203,Dunerbreen,RGI,RGI60-07.00861,79.722,16.8615,1983-04-23,1983-04-28,184.77,7,,,,,185,,,,,
+2383,203,Åsgardfonna (northwest),RGI,RGI60-07.00870,79.7256,16.3619,1983-04-23,1983-04-28,113.645,9,,,,,83,,,,,
+2384,203,Skinfaksebreen,RGI,RGI60-07.00871,79.4323,16.9492,1983-04-23,1983-04-28,183.001,10,,,,,154,,,,,
+2385,203,Balderfonna (northwest),RGI,RGI60-07.00872,79.4105,18.3494,1983-04-23,1983-04-28,63.146,7,,,,,88,,,,,
+2386,203,Veteranen,RGI,RGI60-07.00873,79.2006,17.1714,1983-04-23,1983-04-28,317.587,7,,,,,101,,,,,
+2387,203,Kantbreen,RGI,RGI60-07.00874,79.2804,17.7454,1983-04-23,1983-04-28,108.712,7,,,,,47,,,,,
+2388,203,Glintbreen,RGI,RGI60-07.00879,79.3526,18.0945,1983-04-23,1983-04-28,45.728,8,,,,,56,,,,,
+2389,203,Gardebreen,RGI,RGI60-07.00891,78.6827,19.4962,1983-04-23,1983-04-28,156.251,5,,,,,158,,,,,
+2390,207,Freemanbreen,RGI,RGI60-07.00898,78.3462,21.5714,1986-05-01,1986-05-31,89.712,6,,,,,33,,,,,
+2391,207,Duckwitzbreen,RGI,RGI60-07.00899,78.387,21.1255,1986-05-01,1986-05-31,86.534,9,,,,,62,,,,,
+2392,203,Ericabreen,RGI,RGI60-07.00909,79.503,21.298,1983-04-23,1983-04-28,46.784,13,,,,,58,,,,,
+2393,203,Palanderbreen,RGI,RGI60-07.00910,79.4966,21.0398,1983-04-23,1983-04-28,41.627,10,,,,,79,,,,,
+2394,203,Vegafonna,RGI,RGI60-07.00911,79.4962,20.8442,1983-04-23,1983-04-28,25.107,7,,,,,33,,,,,
+2395,207,,RGI,RGI60-07.00941,77.8392,22.8342,1986-05-01,1986-05-31,9.24,8,,,,,7,,,,,
+2396,207,Seidbreen,RGI,RGI60-07.00942,77.8156,22.9286,1986-05-01,1986-05-31,42.118,8,,,,,35,,,,,
+2397,207,Kong Johans Bre,RGI,RGI60-07.00945,77.6467,23.6557,1986-05-01,1986-05-31,93.023,7,,,,,24,,,,,
+2398,203,Alfarvegen,RGI,RGI60-07.00986,79.0403,19.471,1983-04-23,1983-04-28,77.429,6,,,,,76,,,,,
+2399,211,Grønfjordbreen,RGI,RGI60-07.01082,77.9112,14.2318,1980-04-15,1980-05-15,18.1,9,,,,,1,,,,,
+2400,211,Fridtjovbreen,RGI,RGI60-07.01100,77.8358,14.4077,1980-04-15,1980-05-15,50.408,7,,,,,69,,,,,
+2401,238,Kvitøyjøkulen,RGI,RGI60-07.01394,80.1843,32.4706,1983-04-23,1983-04-28,645.801,11,,,,,1069,,,,,
+2402,207,Liestølbreen,RGI,RGI60-07.01401,77.4193,16.5958,1986-05-01,1986-05-31,0.294,21,,,,,3,,,,,
+2403,239,Grønfjordbreen,RGI,RGI60-07.01416,77.9038,14.3529,1975-01-01,1975-12-31,8.42,8,,,,,1,,,,,
+2404,211,Grønfjordbreen,RGI,RGI60-07.01416,77.9038,14.3529,1980-04-15,1980-05-15,8.42,8,,,,,58,,,,,
+2405,212,Hambergbreen,RGI,RGI60-07.01425,77.0306,17.0072,2014-04-23,,120.025,8,,,,,1,,,,,
+2406,211,Hambergbreen,RGI,RGI60-07.01425,77.0306,17.0072,1980-04-15,1980-05-15,120.025,8,,,,,101,,,,,
+2407,203,Franklinbreen (north),RGI,RGI60-07.01449,80.0582,20.2375,1983-04-23,1983-04-28,331.46,12,,,,,413,,,,,
+2408,207,Franklinbreen (north),RGI,RGI60-07.01449,80.0582,20.2375,1986-05-01,1986-05-31,331.46,12,,,,,23,,,,,
+2409,206,Franklinbreen (north),RGI,RGI60-07.01449,80.0582,20.2375,2008-05-01,,331.46,12,,,,,3273,,,,,
+2410,206,Franklinbreen (north),RGI,RGI60-07.01449,80.0582,20.2375,2009-05-08,,331.46,12,,,,,1518,,,,,
+2411,211,Von Postbreen,RGI,RGI60-07.01454,78.4493,17.8198,1980-04-15,1980-05-15,168.193,7,,,,,55,,,,,
+2412,231,Von Postbreen,RGI,RGI60-07.01454,78.4493,17.8198,2015-05-09,,168.193,7,,,,,4,,,,,
+2413,203,Tunabreen,RGI,RGI60-07.01458,78.5672,17.6109,1983-04-23,1983-04-28,163.425,8,,,,,52,,,,,
+2414,231,Tunabreen,RGI,RGI60-07.01458,78.5672,17.6109,2015-05-09,,163.425,8,,,,,17746,,,,,
+2415,207,Bakaninbreen,RGI,RGI60-07.01461,77.7669,17.5404,1986-05-01,1986-05-31,55.997,10,,,,,81,,,,,
+2416,207,Perseibreen,RGI,RGI60-07.01463,77.4828,17.4116,1986-05-01,1986-05-31,69.274,8,,,,,348,,,,,
+2417,211,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,1980-04-15,1980-05-15,295.509,6,,,,,4,,,,,
+2418,203,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,1983-04-23,1983-04-28,295.509,6,,,,,68,,,,,
+2419,227,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,1990-01-01,1990-12-31,295.509,6,,,,,1526,,,,,
+2420,240,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2004-01-01,2004-12-31,295.509,6,,,,,1088,,,,,
+2421,240,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2005-04-27,,295.509,6,,,,,162,,,,,
+2422,241,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2007-05-03,,295.509,6,,,,,4126,,,,,
+2423,233,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2009-05-05,2016-04-29,295.509,6,,,,,858,,,,,
+2424,233,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2009-05-05,2016-04-29,295.509,6,,,,,1690,,,,,
+2425,233,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2009-05-05,2016-04-29,295.509,6,,,,,966,,,,,
+2426,234,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2014-05-01,,295.509,6,,,,,3922,,,,,
+2427,234,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2015-05-04,,295.509,6,,,,,3951,,,,,
+2428,234,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2016-04-29,,295.509,6,,,,,27735,,,,,
+2429,234,Kronebreen,RGI,RGI60-07.01464,78.9916,13.3845,2016-01-01,2016-12-31,295.509,6,,,,,1088,,,,,
+2430,203,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,1983-04-23,1983-04-28,77.959,8,,,,,10,,,,,
+2431,227,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,1990-01-01,1990-12-31,77.959,8,,,,,2,,,,,
+2432,233,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2009-05-05,2016-04-29,77.959,8,,,,,116,,,,,
+2433,233,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2009-05-05,2016-04-29,77.959,8,,,,,176,,,,,
+2434,233,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2009-05-05,2016-04-29,77.959,8,,,,,77,,,,,
+2435,234,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2014-05-01,,77.959,8,,,,,946,,,,,
+2436,234,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2015-05-04,,77.959,8,,,,,605,,,,,
+2437,234,Infantfonna,RGI,RGI60-07.01466,78.8412,13.3179,2016-04-29,,77.959,8,,,,,2896,,,,,
+2438,207,Ingerbreen,RGI,RGI60-07.01468,77.7286,18.1737,1986-05-01,1986-05-31,29.861,9,,,,,74,,,,,
+2439,207,Richardsbreen,RGI,RGI60-07.01469,77.7265,17.9735,1986-05-01,1986-05-31,34.973,9,,,,,123,,,,,
+2440,211,Paulabreen,RGI,RGI60-07.01470,77.6958,17.3661,1980-04-15,1980-05-15,60.123,9,,,,,81,,,,,
+2441,207,Paulabreen,RGI,RGI60-07.01470,77.6958,17.3661,1986-05-01,1986-05-31,60.123,9,,,,,371,,,,,
+2442,207,Liestølbreen,RGI,RGI60-07.01472,77.4353,16.8732,1986-05-01,1986-05-31,137.611,8,,,,,618,,,,,
+2443,211,Doktorbreen,RGI,RGI60-07.01474,77.5702,16.7959,1980-04-15,1980-05-15,253.219,6,,,,,100,,,,,
+2444,207,Doktorbreen,RGI,RGI60-07.01474,77.5702,16.7959,1986-05-01,1986-05-31,253.219,6,,,,,1243,,,,,
+2445,203,Franklinbreen (south),RGI,RGI60-07.01477,80.0115,19.7691,1983-04-23,1983-04-28,117.431,13,,,,,132,,,,,
+2446,207,Franklinbreen (south),RGI,RGI60-07.01477,80.0115,19.7691,1986-05-01,1986-05-31,117.431,13,,,,,9,,,,,
+2447,206,Franklinbreen (south),RGI,RGI60-07.01477,80.0115,19.7691,2008-05-01,,117.431,13,,,,,1673,,,,,
+2448,206,Franklinbreen (south),RGI,RGI60-07.01477,80.0115,19.7691,2009-05-08,,117.431,13,,,,,108,,,,,
+2449,211,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,1980-04-15,1980-05-15,108.297,7,,,,,69,,,,,
+2450,203,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,1983-04-23,1983-04-28,108.297,7,,,,,54,,,,,
+2451,225,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,1988-05-20,,108.297,7,,,,,1883,,,,,
+2452,227,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,1990-01-01,1990-12-31,108.297,7,,,,,473,,,,,
+2453,232,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,1995-01-01,1995-12-31,108.297,7,,,,,3276,,,,,
+2454,233,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2009-05-05,2016-04-29,108.297,7,,,,,21,,,,,
+2455,233,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2009-05-05,2016-04-29,108.297,7,,,,,20,,,,,
+2456,233,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2009-05-05,2016-04-29,108.297,7,,,,,5,,,,,
+2457,234,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2014-05-01,,108.297,7,,,,,34,,,,,
+2458,234,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2015-05-04,,108.297,7,,,,,37,,,,,
+2459,233,Kongsvegen,RGI,RGI60-07.01481,78.7872,13.1481,2009-05-05,2016-04-29,108.297,7,,,,,60987,,,,,
+2460,203,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,1983-04-23,1983-04-28,378.765,7,,,,,60,,,,,
+2461,240,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2005-04-27,,378.765,7,,,,,215,,,,,
+2462,241,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2007-05-03,,378.765,7,,,,,855,,,,,
+2463,233,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2009-05-05,2016-04-29,378.765,7,,,,,396,,,,,
+2464,233,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2009-05-05,2016-04-29,378.765,7,,,,,194,,,,,
+2465,234,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2014-05-01,,378.765,7,,,,,181,,,,,
+2466,234,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2015-05-04,,378.765,7,,,,,41607,,,,,
+2467,234,Kongsbreen,RGI,RGI60-07.01482,79.0502,12.9714,2016-04-29,,378.765,7,,,,,59361,,,,,
+2468,203,Mittag-Lefflerbreen,RGI,RGI60-07.01487,78.8559,16.9961,1983-04-23,1983-04-28,326.504,6,,,,,14,,,,,
+2469,236,Mittag-Lefflerbreen,RGI,RGI60-07.01487,78.8559,16.9961,2010-03-18,,326.504,6,,,,,267,,,,,
+2470,203,Frazerbreen,RGI,RGI60-07.01488,79.8825,20.3646,1983-04-23,1983-04-28,200.836,6,,,,,115,,,,,
+2471,207,Frazerbreen,RGI,RGI60-07.01488,79.8825,20.3646,1986-05-01,1986-05-31,200.836,6,,,,,39,,,,,
+2472,206,Frazerbreen,RGI,RGI60-07.01488,79.8825,20.3646,2008-05-01,,200.836,6,,,,,666,,,,,
+2473,206,Frazerbreen,RGI,RGI60-07.01488,79.8825,20.3646,2009-05-08,,200.836,6,,,,,257,,,,,
+2474,203,Fjortende Julibreen,RGI,RGI60-07.01492,79.1294,12.2577,1983-04-23,1983-04-28,76.334,10,,,,,36,,,,,
+2475,240,Vonbreen (south),RGI,RGI60-07.01495,79.1299,13.7163,2004-01-01,2004-12-31,103.168,10,,,,,62,,,,,
+2476,203,Aldousbreen,RGI,RGI60-07.01499,79.894,20.8766,1983-04-23,1983-04-28,179.461,10,,,,,277,,,,,
+2477,207,Aldousbreen,RGI,RGI60-07.01499,79.894,20.8766,1986-05-01,1986-05-31,179.461,10,,,,,34,,,,,
+2478,206,Aldousbreen,RGI,RGI60-07.01499,79.894,20.8766,2008-05-10,,179.461,10,,,,,428,,,,,
+2479,206,Aldousbreen,RGI,RGI60-07.01499,79.894,20.8766,2009-05-08,,179.461,10,,,,,6186,,,,,
+2480,203,Chydeniusbreen,RGI,RGI60-07.01500,79.183,17.8788,1983-04-23,1983-04-28,318.818,7,,,,,111,,,,,
+2481,207,Besselsbreen,RGI,RGI60-07.01505,78.4725,21.481,1986-05-01,1986-05-31,122.218,7,,,,,111,,,,,
+2482,211,Negribreen,RGI,RGI60-07.01506,78.6798,18.4735,1980-04-15,1980-05-15,963.857,5,,,,,67,,,,,
+2483,242,Negribreen,RGI,RGI60-07.01506,78.6798,18.4735,1982-01-01,1982-12-31,963.857,5,,,,,1,,,,,
+2484,203,Negribreen,RGI,RGI60-07.01506,78.6798,18.4735,1983-04-23,1983-04-28,963.857,5,,,,,267,,,,,
+2485,211,Hayesbreen,RGI,RGI60-07.01508,78.4114,18.3497,1980-04-15,1980-05-15,95.358,7,,,,,21,,,,,
+2486,243,Idunbreen,RGI,RGI60-07.01510,79.8589,19.7146,1981-01-01,1981-12-31,333.36,8,,,,,1,,,,,
+2487,203,Idunbreen,RGI,RGI60-07.01510,79.8589,19.7146,1983-04-23,1983-04-28,333.36,8,,,,,25,,,,,
+2488,206,Idunbreen,RGI,RGI60-07.01510,79.8589,19.7146,2008-05-01,,333.36,8,,,,,1102,,,,,
+2489,203,Petermannbreen,RGI,RGI60-07.01511,78.4853,18.4995,1983-04-23,1983-04-28,117.909,6,,,,,84,,,,,
+2490,207,Kuhrbreen,RGI,RGI60-07.01514,77.6222,21.8435,1986-05-01,1986-05-31,87.276,5,,,,,58,,,,,
+2491,203,Bragebreen,RGI,RGI60-07.01523,79.7939,19.1863,1983-04-23,1983-04-28,28.752,9,,,,,15,,,,,
+2492,203,Gimlebreen,RGI,RGI60-07.01534,79.8214,18.9575,1983-04-23,1983-04-28,99.024,10,,,,,51,,,,,
+2493,207,Gandbreen (south),RGI,RGI60-07.01541,77.7212,23.1318,1986-05-01,1986-05-31,34.644,8,,,,,15,,,,,
+2494,207,Albrechtbreen,RGI,RGI60-07.01544,77.8977,23.1035,1986-05-01,1986-05-31,66.48,6,,,,,5,,,,,
+2495,207,Deltabreen,RGI,RGI60-07.01546,77.577,23.4698,1986-05-01,1986-05-31,186.971,7,,,,,57,,,,,
+2496,207,Stonebreen,RGI,RGI60-07.01554,77.8108,23.7184,1986-05-01,1986-05-31,581.764,4,,,,,320,,,,,
+2497,244,Hinlopenbreen,RGI,RGI60-07.01559,78.9255,18.349,1997-01-01,1997-12-31,876.603,6,,,,,1,,,,,
+2498,203,Hochstetterbreen,RGI,RGI60-07.01560,78.864,19.8244,1983-04-23,1983-04-28,594.902,4,,,,,397,,,,,
+2499,203,Vaigattbreen,RGI,RGI60-07.01561,79.115,19.4916,1983-04-23,1983-04-28,76.893,7,,,,,73,,,,,
+6624,251,Findelengletscher,WGI,CH4N01356003,45.9936,7.87051,2008-01-01,2008-12-31,,,,,,,5137,,,,,
+6625,252,Findelengletscher,WGI,CH4N01356003,45.9936,7.87051,2012-01-01,2012-12-31,,,,,,,4033,,,,,
+6626,253,Findelengletscher,WGI,CH4N01356003,45.9936,7.87051,2012-01-01,2012-12-31,,,,,,,4051,,,,,
+6627,254,Mount Adams,,,46.2024,-121.4909,1935-01-01,1935-12-31,,,,,,,14,,,,,
+6628,255,Mount Adams,,,46.2024,-121.4909,2002-05-01,2002-05-31,16.2,,57,,,,217,,,,,AREA: Sitts et al. 2010 (https://doi.org/10.3955/046.084.0407)
+6629,256,Mount Adams,,,46.20398,-121.49376,2006-07-01,2006-07-31,,,,,120,,78,,,,partial,
+6630,128,Mullwitzkees,AGI,6054,47.0867,12.38,1998-01-01,1998-12-31,3.229,,39,9,78,13,30,,,anudem,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
+6631,128,Mullwitzkees,AGI,6054,47.0867,12.38,2003-01-01,2003-12-31,,,,,,,1,,,,,LAT/LON: FoG 2015 | AREA: Austrian Glacier inventory II
